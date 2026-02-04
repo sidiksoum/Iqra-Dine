@@ -44,9 +44,14 @@ export default function Header() {
             <button className="bg-white text-emerald-700 px-6 py-2 rounded-lg font-semibold border-2 border-emerald-600 hover:bg-emerald-50 transition-all duration-300">
               Connexion
             </button>
-            <button className="bg-gradient-to-r from-emerald-600 to-emerald-700 text-white px-6 py-2 rounded-lg font-semibold hover:from-emerald-700 hover:to-emerald-800 transition-all duration-300 shadow-lg">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.quranic_science_explorer.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-gradient-to-r from-emerald-600 to-emerald-700 text-white px-6 py-2 rounded-lg font-semibold hover:from-emerald-700 hover:to-emerald-800 transition-all duration-300 shadow-lg"
+            >
               Télécharger
-            </button>
+            </a>
           </div>
 
           <button

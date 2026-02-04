@@ -48,19 +48,33 @@ export default function AppPreview() {
             </div>
 
             <div className="flex flex-wrap gap-4 pt-4">
-              <button className="bg-black text-white px-8 py-4 rounded-xl font-semibold hover:bg-gray-800 transition-all duration-300 shadow-lg flex items-center gap-3">
+  
+              {/* App Store (à remplacer quand le lien sera dispo) */}
+              <a
+                href="#"
+                className="bg-black text-white px-8 py-4 rounded-xl font-semibold hover:bg-gray-800 transition-all duration-300 shadow-lg flex items-center gap-3 cursor-not-allowed opacity-70"
+              >
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/>
                 </svg>
                 App Store
-              </button>
-              <button className="bg-emerald-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-emerald-700 transition-all duration-300 shadow-lg flex items-center gap-3">
+              </a>
+
+              {/* Google Play */}
+              <a
+                href="https://play.google.com/store/apps/details?id=com.quranic_science_explorer.app"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-emerald-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-emerald-700 transition-all duration-300 shadow-lg flex items-center gap-3"
+              >
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M3.609 1.814L13.792 12 3.61 22.186a1.978 1.978 0 01-.119-1.062V2.876c0-.377.103-.744.118-1.062zM14.5 12.707l2.707 2.707-9.007 5.173c-.535.307-1.163.408-1.777.283L14.5 12.707zM17.207 8.586L14.5 11.293 6.423 3.217c.614-.125 1.242-.024 1.777.283l9.007 5.173v-.087zm1.586.914c.39.39.586.902.586 1.414s-.196 1.024-.586 1.414L17.5 13.621 15.086 11.207 17.5 8.793l1.293 1.293.014.414z"/>
                 </svg>
                 Google Play
-              </button>
+              </a>
+
             </div>
+
           </div>
 
           <div className="relative">
