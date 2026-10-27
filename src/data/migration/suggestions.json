@@ -1,0 +1,537 @@
+[
+  {
+    "text": "Heures de prière aujourd'hui",
+    "icon": "schedule",
+    "category": "Prière"
+  },
+  {
+    "text": "Miracles scientifiques dans le Coran",
+    "icon": "science",
+    "category": "Science"
+  },
+  {
+    "text": "Événements du calendrier islamique",
+    "icon": "calendar_today",
+    "category": "Calendrier"
+  },
+  {
+    "text": "Hadith sur la connaissance",
+    "icon": "menu_book",
+    "category": "Hadith"
+  },
+  {
+    "text": "Astronomie en Islam",
+    "icon": "public",
+    "category": "Science"
+  },
+  {
+    "text": "Histoires des prophètes",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Qu’est-ce que le Tawhid ?",
+    "icon": "lightbulb",
+    "category": "Foi"
+  },
+  {
+    "text": "Rôle de la femme en Islam",
+    "icon": "woman",
+    "category": "Société"
+  },
+  {
+    "text": "Qu'est-ce que le Zakat ?",
+    "icon": "volunteer_activism",
+    "category": "Piliers"
+  },
+  {
+    "text": "Comment faire les ablutions ?",
+    "icon": "wash",
+    "category": "Prière"
+  },
+  {
+    "text": "Signification du Hajj",
+    "icon": "mosque",
+    "category": "Piliers"
+  },
+  {
+    "text": "Différences entre Coran et Bible",
+    "icon": "book",
+    "category": "Comparaison"
+  },
+  {
+    "text": "Qu'est-ce que le Ramadan ?",
+    "icon": "nights_stay",
+    "category": "Jeûne"
+  },
+  {
+    "text": "Les prophètes en Islam",
+    "icon": "groups",
+    "category": "Histoire"
+  },
+  {
+    "text": "L'importance de la prière",
+    "icon": "self_improvement",
+    "category": "Prière"
+  },
+  {
+    "text": "Qu'est-ce que le Jihad ?",
+    "icon": "shield",
+    "category": "Foi"
+  },
+  {
+    "text": "Droits des animaux en Islam",
+    "icon": "pets",
+    "category": "Éthique"
+  },
+  {
+    "text": "Le mariage en Islam",
+    "icon": "favorite",
+    "category": "Famille"
+  },
+  {
+    "text": "Le divorce en Islam",
+    "icon": "gavel",
+    "category": "Famille"
+  },
+  {
+    "text": "L'héritage en Islam",
+    "icon": "account_balance_wallet",
+    "category": "Droit"
+  },
+  {
+    "text": "Qu'est-ce que le Shirk ?",
+    "icon": "warning",
+    "category": "Foi"
+  },
+  {
+    "text": "Attributs de Allah",
+    "icon": "star",
+    "category": "Foi"
+  },
+  {
+    "text": "Vie après la mort en Islam",
+    "icon": "cloud",
+    "category": "Eschatologie"
+  },
+  {
+    "text": "Les anges en Islam",
+    "icon": "flutter_dash",
+    "category": "Foi"
+  },
+  {
+    "text": "Livres sacrés en Islam",
+    "icon": "auto_stories",
+    "category": "Foi"
+  },
+  {
+    "text": "Le Jour du Jugement",
+    "icon": "balance",
+    "category": "Eschatologie"
+  },
+  {
+    "text": "Qu'est-ce que la Sunna ?",
+    "icon": "bookmark",
+    "category": "Hadith"
+  },
+  {
+    "text": "Hadiths célèbres",
+    "icon": "quote",
+    "category": "Hadith"
+  },
+  {
+    "text": "Histoire du Prophète Muhammad",
+    "icon": "history_edu",
+    "category": "Histoire"
+  },
+  {
+    "text": "La Kaaba",
+    "icon": "place",
+    "category": "Lieux saints"
+  },
+  {
+    "text": "La Mecque et Médine",
+    "icon": "location_city",
+    "category": "Lieux saints"
+  },
+  {
+    "text": "Les califes rashidun",
+    "icon": "people_alt",
+    "category": "Histoire"
+  },
+  {
+    "text": "L'Empire ottoman et l'Islam",
+    "icon": "castle",
+    "category": "Histoire"
+  },
+  {
+    "text": "L'Islam en Europe",
+    "icon": "public",
+    "category": "Histoire"
+  },
+  {
+    "text": "Conversion à l'Islam",
+    "icon": "person_add",
+    "category": "Foi"
+  },
+  {
+    "text": "Mythes sur l'Islam",
+    "icon": "question_mark",
+    "category": "Information"
+  },
+  {
+    "text": "L'Islam et la science",
+    "icon": "biotech",
+    "category": "Science"
+  },
+  {
+    "text": "Versets coraniques sur la paix",
+    "icon": "handshake",
+    "category": "Coran"
+  },
+  {
+    "text": "L'éthique en Islam",
+    "icon": "scale",
+    "category": "Éthique"
+  },
+  {
+    "text": "La charité en Islam",
+    "icon": "handshake",
+    "category": "Éthique"
+  },
+  {
+    "text": "Respect des parents",
+    "icon": "family_restroom",
+    "category": "Famille"
+  },
+  {
+    "text": "L'honnêteté en Islam",
+    "icon": "thumb_up",
+    "category": "Éthique"
+  },
+  {
+    "text": "Le pardon en Islam",
+    "icon": "restart_alt",
+    "category": "Éthique"
+  },
+  {
+    "text": "La patience en Islam",
+    "icon": "hourglass_bottom",
+    "category": "Éthique"
+  },
+  {
+    "text": "L'humilité en Islam",
+    "icon": "accessibility_new",
+    "category": "Éthique"
+  },
+  {
+    "text": "Les fêtes islamiques",
+    "icon": "celebration",
+    "category": "Calendrier"
+  },
+  {
+    "text": "Eid al-Fitr",
+    "icon": "cake",
+    "category": "Calendrier"
+  },
+  {
+    "text": "Eid al-Adha",
+    "icon": "local_fire_department",
+    "category": "Calendrier"
+  },
+  {
+    "text": "Le Mawlid",
+    "icon": "cake",
+    "category": "Calendrier"
+  },
+  {
+    "text": "L'Islam et l'environnement",
+    "icon": "eco",
+    "category": "Éthique"
+  },
+  {
+    "text": "Musulmans et non-musulmans",
+    "icon": "diversity_3",
+    "category": "Société"
+  },
+  {
+    "text": "Dialogue interreligieux",
+    "icon": "forum",
+    "category": "Société"
+  },
+  {
+    "text": "Islam et christianisme",
+    "icon": "church",
+    "category": "Comparaison"
+  },
+  {
+    "text": "Islam et judaïsme",
+    "icon": "temple",
+    "category": "Comparaison"
+  },
+  {
+    "text": "Les soufis",
+    "icon": "self_improvement",
+    "category": "Spiritualité"
+  },
+  {
+    "text": "Le tasawwuf",
+    "icon": "psychology",
+    "category": "Spiritualité"
+  },
+  {
+    "text": "Écoles juridiques en Islam",
+    "icon": "gavel",
+    "category": "Droit"
+  },
+  {
+    "text": "Hanafi, Maliki, Shafi'i, Hanbali",
+    "icon": "balance",
+    "category": "Droit"
+  },
+  {
+    "text": "Le fiqh",
+    "icon": "book",
+    "category": "Droit"
+  },
+  {
+    "text": "Interdits alimentaires en Islam",
+    "icon": "restaurant",
+    "category": "Quotidien"
+  },
+  {
+    "text": "Le halal",
+    "icon": "check_circle",
+    "category": "Quotidien"
+  },
+  {
+    "text": "Jeûne intermittent en Islam",
+    "icon": "timer_off",
+    "category": "Jeûne"
+  },
+  {
+    "text": "Prière de nuit",
+    "icon": "bedtime",
+    "category": "Prière"
+  },
+  {
+    "text": "Le Tahajjud",
+    "icon": "nights_stay",
+    "category": "Prière"
+  },
+  {
+    "text": "Le Witr",
+    "icon": "star_half",
+    "category": "Prière"
+  },
+  {
+    "text": "Dou'as quotidiennes",
+    "icon": "prayer",
+    "category": "Spiritualité"
+  },
+  {
+    "text": "Lecture du Coran",
+    "icon": "menu_book",
+    "category": "Coran"
+  },
+  {
+    "text": "Mémorisation du Coran",
+    "icon": "memory",
+    "category": "Coran"
+  },
+  {
+    "text": "Miracles du Coran",
+    "icon": "lightbulb",
+    "category": "Coran"
+  },
+  {
+    "text": "Calligraphie islamique",
+    "icon": "brush",
+    "category": "Art"
+  },
+  {
+    "text": "Architecture islamique",
+    "icon": "apartment",
+    "category": "Art"
+  },
+  {
+    "text": "Mosquées célèbres",
+    "icon": "mosque",
+    "category": "Lieux"
+  },
+  {
+    "text": "Islam en Afrique",
+    "icon": "public",
+    "category": "Histoire"
+  },
+  {
+    "text": "Islam en Asie",
+    "icon": "public",
+    "category": "Histoire"
+  },
+  {
+    "text": "Musulmans célèbres",
+    "icon": "star",
+    "category": "Histoire"
+  },
+  {
+    "text": "Inventions musulmanes",
+    "icon": "lightbulb",
+    "category": "Science"
+  },
+  {
+    "text": "Al-Khwarizmi",
+    "icon": "calculate",
+    "category": "Science"
+  },
+  {
+    "text": "Ibn Sina",
+    "icon": "local_hospital",
+    "category": "Science"
+  },
+  {
+    "text": "Rumi",
+    "icon": "book",
+    "category": "Littérature"
+  },
+  {
+    "text": "Poètes musulmans",
+    "icon": "edit_note",
+    "category": "Littérature"
+  },
+  {
+    "text": "Musique en Islam",
+    "icon": "music_note",
+    "category": "Art"
+  },
+  {
+    "text": "Nasheeds",
+    "icon": "mic",
+    "category": "Art"
+  },
+  {
+    "text": "Sport en Islam",
+    "icon": "sports_soccer",
+    "category": "Quotidien"
+  },
+  {
+    "text": "Femmes dans l'histoire islamique",
+    "icon": "woman",
+    "category": "Histoire"
+  },
+  {
+    "text": "Aisha bint Abi Bakr",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Fatima az-Zahra",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Compagnons du Prophète",
+    "icon": "groups",
+    "category": "Histoire"
+  },
+  {
+    "text": "Abu Bakr",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Umar ibn al-Khattab",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Uthman ibn Affan",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Ali ibn Abi Talib",
+    "icon": "person",
+    "category": "Histoire"
+  },
+  {
+    "text": "Concept de Ummah",
+    "icon": "diversity_1",
+    "category": "Société"
+  },
+  {
+    "text": "Solidarité musulmane",
+    "icon": "handshake",
+    "category": "Société"
+  },
+  {
+    "text": "Islam et économie",
+    "icon": "attach_money",
+    "category": "Économie"
+  },
+  {
+    "text": "Banque islamique",
+    "icon": "account_balance",
+    "category": "Économie"
+  },
+  {
+    "text": "Interdiction de l'usure",
+    "icon": "money_off",
+    "category": "Économie"
+  },
+  {
+    "text": "Commerce en Islam",
+    "icon": "shopping_cart",
+    "category": "Économie"
+  },
+  {
+    "text": "Droits des travailleurs",
+    "icon": "engineering",
+    "category": "Société"
+  },
+  {
+    "text": "Islam et médecine",
+    "icon": "local_hospital",
+    "category": "Santé"
+  },
+  {
+    "text": "Bioéthique islamique",
+    "icon": "science",
+    "category": "Santé"
+  },
+  {
+    "text": "Clonage en Islam",
+    "icon": "biotech",
+    "category": "Santé"
+  },
+  {
+    "text": "Avortement en Islam",
+    "icon": "pregnant_woman",
+    "category": "Santé"
+  },
+  {
+    "text": "Suicide en Islam",
+    "icon": "psychology_alt",
+    "category": "Santé"
+  },
+  {
+    "text": "Dépression en Islam",
+    "icon": "mood_bad",
+    "category": "Santé"
+  },
+  {
+    "text": "Santé mentale en Islam",
+    "icon": "psychology",
+    "category": "Santé"
+  },
+  {
+    "text": "Islam et éducation",
+    "icon": "school",
+    "category": "Éducation"
+  },
+  {
+    "text": "Universités islamiques anciennes",
+    "icon": "account_balance",
+    "category": "Éducation"
+  }
+]

@@ -1,0 +1,33 @@
+{
+    "featuredContent": [{
+            "id": 1,
+            "title": "L'univers en expansion",
+            "description": "La cosmologie moderne confirme la révélation coranique sur l'expansion de l'univers",
+            "imageUrl": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3",
+            "surah": "Adh-Dhariyat",
+            "verse": "51:47",
+            "arabicText": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+            "domain": "Astronomie"
+        },
+        {
+            "id": 2,
+            "title": "Découverte du cycle de l'eau",
+            "description": "Le Coran décrit le cycle complet de l'eau des siècles avant sa découverte scientifique",
+            "imageUrl": "https://st.depositphotos.com/1602468/4251/i/450/depositphotos_42514881-stock-illustration-water-cycle.jpg",
+            "surah": "Az-Zumar",
+            "verse": "39:21",
+            "arabicText": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً",
+            "domain": "Géographie"
+        },
+        {
+            "id": 3,
+            "title": "Développement embryonnaire",
+            "description": "Étapes détaillées du développement embryonnaire humain mentionnées dans le Coran",
+            "imageUrl": "https://media.istockphoto.com/id/1477426928/photo/human-fetus-in-scientific-background.jpg?s=612x612&w=0&k=20&c=CEYrzkMLfEbCy55mjGvxwvsaY7Nc-Jflq9LZDUDo3yU=",
+            "surah": "Al-Mu'minun",
+            "verse": "23:14",
+            "arabicText": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً",
+            "domain": "Embryologie"
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 import { BookOpen, Menu, X } from 'lucide-react';
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -41,9 +42,12 @@ export default function Header() {
           </nav>
 
           <div className="hidden lg:flex items-center gap-4">
-            <button className="bg-white text-emerald-700 px-6 py-2 rounded-lg font-semibold border-2 border-emerald-600 hover:bg-emerald-50 transition-all duration-300">
+            <Link
+              to="/admin/login"
+              className="bg-white text-emerald-700 px-6 py-2 rounded-lg font-semibold border-2 border-emerald-600 hover:bg-emerald-50 transition-all duration-300"
+            >
               Connexion
-            </button>
+            </Link>
             <a
               href="https://play.google.com/store/apps/details?id=com.quranic_science_explorer.app"
               target="_blank"
@@ -81,9 +85,13 @@ export default function Header() {
               ))}
             </nav>
             <div className="flex flex-col gap-3 px-4">
-              <button className="w-full bg-white text-emerald-700 px-6 py-2 rounded-lg font-semibold border-2 border-emerald-600 hover:bg-emerald-50 transition-all duration-300">
+              <Link
+                to="/admin/login"
+                onClick={() => setIsOpen(false)}
+                className="text-center w-full bg-white text-emerald-700 px-6 py-2 rounded-lg font-semibold border-2 border-emerald-600 hover:bg-emerald-50 transition-all duration-300"
+              >
                 Connexion
-              </button>
+              </Link>
               <button className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 text-white px-6 py-2 rounded-lg font-semibold hover:from-emerald-700 hover:to-emerald-800 transition-all duration-300 shadow-lg">
                 Télécharger
               </button>

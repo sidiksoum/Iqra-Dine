@@ -1,0 +1,3531 @@
+[
+  {
+    "query": "heures de prière",
+    "response": "Les heures de prière varient en fonction de l'emplacement et de la saison. Les cinq prières quotidiennes sont Fajr (aube), Dhuhr (midi), Asr (après-midi), Maghrib (coucher du soleil) et Isha (nuit). Chaque prière a un timing spécifique basé sur la position du soleil.",
+    "references": [
+      "Coran 4:103 - 'En vérité, la prière est pour les croyants une prescription à des temps déterminés.'",
+      "Sahih Bukhari 521 - Narré par Abdullah ibn Amr sur les heures de prière"
+    ],
+    "suggestions": [
+      "Calendrier islamique",
+      "Direction de la Qibla",
+      "Avantages de la prière"
+    ]
+  },
+  {
+    "query": "miracles scientifiques",
+    "response": "Le Coran contient de nombreux versets qui s'alignent avec les découvertes scientifiques modernes. Cela inclut les descriptions du développement embryonnaire, du cycle de l'eau, des phénomènes astronomiques et de l'expansion de l'univers.",
+    "references": [
+      "Coran 21:30 - 'Nous avons créé de l'eau toute chose vivante'",
+      "Coran 51:47 - 'Et le ciel, Nous l'avons construit par Notre puissance et Nous l'étendons constamment'",
+      "Coran 23:12-14 - Étapes du développement embryonnaire humain"
+    ],
+    "suggestions": [
+      "Astronomie en Islam",
+      "Cycle de l'eau dans le Coran",
+      "Versets sur l'embryologie"
+    ]
+  },
+  {
+    "query": "astronomie",
+    "response": "L'astronomie islamique a fleuri pendant l'Âge d'or. Le Coran mentionne les corps célestes, leurs mouvements et les phénomènes cosmiques. Les astronomes musulmans ont apporté des contributions significatives à notre compréhension de l'univers.",
+    "references": [
+      "Coran 36:40 - 'Il n'est pas donné au soleil de rattraper la lune, ni à la nuit de devancer le jour'",
+      "Coran 25:61 - 'Béni soit Celui qui a placé dans le ciel de grandes étoiles'",
+      "Observations et calculs astronomiques d'Al-Battani"
+    ],
+    "suggestions": [
+      "Phases de la lune en Islam",
+      "Navigation par les étoiles",
+      "Calendrier islamique"
+    ]
+  },
+  {
+    "query": "hadith sur la connaissance",
+    "response": "L'Islam met un grand accent sur la recherche de la connaissance. Le Prophète Muhammad (paix soit sur lui) a encouragé l'apprentissage et l'enseignement comme des actes d'adoration et des chemins vers le paradis.",
+    "references": [
+      "Sahih Muslim 2699 - 'Celui qui parcourt un chemin à la recherche de la connaissance, Allah lui facilitera un chemin vers le Paradis'",
+      "Sunan Ibn Majah 224 - 'Cherche la connaissance du berceau à la tombe'",
+      "Sahih Bukhari 79 - 'Allah facilite le chemin vers le Paradis pour celui qui parcourt un chemin à la recherche de la connaissance'"
+    ],
+    "suggestions": [
+      "Éducation islamique",
+      "Avantages de l'apprentissage",
+      "Enseignement en Islam"
+    ]
+  },
+  {
+    "query": "histoires des prophètes",
+    "response": "Les histoires des prophètes en Islam fournissent des conseils et des leçons. Chaque prophète a fait face à des défis uniques et a démontré une foi inébranlable en Allah tout en appelant leur peuple à la justice.",
+    "references": [
+      "Coran 12:111 - 'Il y avait certainement dans leurs histoires une leçon pour ceux qui comprennent'",
+      "Histoires du sacrifice et de la foi du Prophète Ibrahim",
+      "Leadership du Prophète Musa avec Bani Israel",
+      "Miracles et message du Prophète Isa"
+    ],
+    "suggestions": [
+      "Histoire du Prophète Ibrahim",
+      "Miracles du Prophète Musa",
+      "Enseignements du Prophète Isa"
+    ]
+  },
+  {
+    "query": "calendrier islamique",
+    "response": "Le calendrier islamique est un calendrier lunaire composé de 12 mois. Il commence avec Muharram et inclut des mois significatifs comme Ramadan et Dhul Hijjah. Des événements importants sont marqués tout au long de l'année.",
+    "references": [
+      "Coran 9:36 - 'Le nombre de mois, auprès d'Allah, est de douze mois'",
+      "La Hijra marquant le début du calendrier islamique",
+      "Signification des quatre mois sacrés"
+    ],
+    "suggestions": [
+      "Signification de Ramadan",
+      "Pèlerinage du Hajj",
+      "Fêtes islamiques"
+    ]
+  },
+  {
+    "query": "qu’est-ce que le tawhid ?",
+    "response": "Le Tawhid est l'unicité de Dieu, le principe fondamental de l'Islam affirmant qu'il n'y a de divinité que Allah, sans associé.",
+    "references": [
+      "Coran 112:1 - 'Dis : Il est Allah, Unique.'",
+      "Sahih Bukhari 7371 - Hadith sur le Tawhid"
+    ],
+    "suggestions": [
+      "Attributs de Allah",
+      "Shirk",
+      "Monothéisme en Islam"
+    ]
+  },
+  {
+    "query": "le rôle de la femme en islam",
+    "response": "La femme en Islam a des droits égaux en éducation, propriété et spiritualité, avec des rôles complémentaires dans la famille et la société.",
+    "references": [
+      "Coran 4:32 - 'Aux hommes, une part de ce qu'ils ont acquis, et aux femmes, une part de ce qu'elles ont acquis.'",
+      "Sahih Bukhari 5186 - Hadith sur les droits des femmes"
+    ],
+    "suggestions": [
+      "Mariage en Islam",
+      "Héritage des femmes",
+      "Femmes dans l'histoire islamique"
+    ]
+  },
+  {
+    "query": "qu'est-ce que le zakat ?",
+    "response": "Le Zakat est l'aumône obligatoire, un des cinq piliers de l'Islam, représentant 2,5% des biens accumulés pour purifier la richesse et aider les pauvres.",
+    "references": [
+      "Coran 9:60 - 'Les aumônes sont destinées aux pauvres, aux nécessiteux...'",
+      "Sahih Muslim 2263 - Hadith sur le Zakat"
+    ],
+    "suggestions": [
+      "Calcul du Zakat",
+      "Sadaqa",
+      "Charité en Islam"
+    ]
+  },
+  {
+    "query": "comment faire les ablutions ?",
+    "response": "Les ablutions (wudu) consistent à laver le visage, les mains, les avant-bras, essuyer la tête et laver les pieds, pour se purifier avant la prière.",
+    "references": [
+      "Coran 5:6 - 'Ô les croyants ! Lorsque vous vous levez pour la prière, lavez vos visages...'",
+      "Sahih Bukhari 135 - Hadith sur le wudu"
+    ],
+    "suggestions": [
+      "Ablutions sèches (tayammum)",
+      "Prière sans ablutions",
+      "Hygiène en Islam"
+    ]
+  },
+  {
+    "query": "signification du hajj",
+    "response": "Le Hajj est le pèlerinage à La Mecque, un des cinq piliers, symbolisant l'unité des musulmans et la soumission à Allah.",
+    "references": [
+      "Coran 22:27 - 'Et fais aux gens une annonce pour le Hajj.'",
+      "Sahih Bukhari 1773 - Hadith sur le Hajj"
+    ],
+    "suggestions": [
+      "Étapes du Hajj",
+      "Umrah",
+      "Pèlerinage virtuel"
+    ]
+  },
+  {
+    "query": "différences entre coran et bible",
+    "response": "Le Coran est considéré comme la parole directe de Dieu, inchangée, tandis que la Bible est vue comme altérée ; les deux partagent des prophètes mais diffèrent sur la divinité de Jésus.",
+    "references": [
+      "Coran 5:46 - 'Et Nous avons envoyé après eux Jésus, fils de Marie...'",
+      "Coran 4:171 - Sur Jésus comme messager"
+    ],
+    "suggestions": [
+      "Prophètes communs",
+      "Torah en Islam",
+      "Évangile en Islam"
+    ]
+  },
+  {
+    "query": "qu'est-ce que le ramadan ?",
+    "response": "Le Ramadan est le mois de jeûne, un pilier de l'Islam, où les musulmans s'abstiennent de manger, boire et relations intimes du lever au coucher du soleil.",
+    "references": [
+      "Coran 2:185 - 'Le mois de Ramadan au cours duquel le Coran a été descendu...'",
+      "Sahih Bukhari 1898 - Hadith sur le jeûne"
+    ],
+    "suggestions": [
+      "Règles du jeûne",
+      "Tarawih",
+      "Eid al-Fitr"
+    ]
+  },
+  {
+    "query": "les prophètes en islam",
+    "response": "L'Islam reconnaît 25 prophètes mentionnés dans le Coran, comme Adam, Noé, Abraham, Moïse, Jésus et Muhammad, tous messagers de Dieu.",
+    "references": [
+      "Coran 4:163 - 'Nous t'avons fait une révélation comme Nous fîmes à Noé et aux prophètes après lui...'",
+      "Sahih Muslim 237 - Hadith sur les prophètes"
+    ],
+    "suggestions": [
+      "Histoire d'Adam",
+      "Miracles de Moïse",
+      "Vie de Jésus"
+    ]
+  },
+  {
+    "query": "l'importance de la prière",
+    "response": "La prière (Salat) est un pilier de l'Islam, un lien direct avec Dieu, purifiant l'âme et rappelant la soumission à Allah cinq fois par jour.",
+    "references": [
+      "Coran 29:45 - 'La prière préserve de la turpitude et du blâmable.'",
+      "Sahih Bukhari 646 - Hadith sur l'importance de la prière"
+    ],
+    "suggestions": [
+      "Étapes de la prière",
+      "Prières surérogatoires",
+      "Prière en congregation"
+    ]
+  },
+  {
+    "query": "qu'est-ce que le jihad ?",
+    "response": "Le Jihad est la lutte pour la cause de Dieu, principalement interne (contre le mal en soi), mais aussi externe en défense légitime, pas la guerre sainte comme souvent mal compris.",
+    "references": [
+      "Coran 25:52 - 'Obéis pas aux infidèles, et avec ce (Coran), mène contre eux un grand Jihad.'",
+      "Sahih Bukhari 2784 - Hadith sur le Jihad majeur"
+    ],
+    "suggestions": [
+      "Jihad intérieur",
+      "Règles de guerre en Islam",
+      "Paix en Islam"
+    ]
+  },
+  {
+    "query": "les droits des animaux en islam",
+    "response": "L'Islam enseigne la bienveillance envers les animaux, interdisant la cruauté et encourageant à les nourrir et les soigner.",
+    "references": [
+      "Coran 6:38 - 'Il n'y a point de bête sur terre dont la subsistance n'incombe à Allah.'",
+      "Sahih Bukhari 2466 - Hadith sur la gentillesse envers les animaux"
+    ],
+    "suggestions": [
+      "Abattage halal",
+      "Animaux domestiques",
+      "Environnement en Islam"
+    ]
+  },
+  {
+    "query": "le mariage en islam",
+    "response": "Le mariage est un contrat sacré basé sur l'amour et la miséricorde, avec consentement mutuel, dot et témoins.",
+    "references": [
+      "Coran 30:21 - 'Parmi Ses signes Il a créé de vous, pour vous, des épouses pour que vous viviez en tranquillité avec elles.'",
+      "Sahih Muslim 1466 - Hadith sur le mariage"
+    ],
+    "suggestions": [
+      "Conditions du mariage",
+      "Polygamie",
+      "Divorce"
+    ]
+  },
+  {
+    "query": "le divorce en islam",
+    "response": "Le divorce (Talaq) est permis mais détesté, avec une période d'attente (Iddah) pour la réconciliation.",
+    "references": [
+      "Coran 2:229 - 'Le divorce ne peut intervenir que deux fois.'",
+      "Sahih Bukhari 5251 - Hadith sur le divorce"
+    ],
+    "suggestions": [
+      "Iddah",
+      "Droits après divorce",
+      "Mariage temporaire"
+    ]
+  },
+  {
+    "query": "l'héritage en islam",
+    "response": "L'héritage est distribué selon des règles fixes, avec parts pour hommes et femmes, favorisant les responsabilités familiales.",
+    "references": [
+      "Coran 4:11 - 'Allah vous enjoint au sujet de vos enfants : au mâle, une part équivalente à celle de deux femelles.'",
+      "Sahih Muslim 1618 - Hadith sur l'héritage"
+    ],
+    "suggestions": [
+      "Parts des héritiers",
+      "Testament en Islam",
+      "Femmes et héritage"
+    ]
+  },
+  {
+    "query": "qu'est-ce que le shirk ?",
+    "response": "Le Shirk est l'association d'autres divinités à Allah, le péché le plus grave en Islam.",
+    "references": [
+      "Coran 4:48 - 'Allah ne pardonne pas qu'on Lui associe quoi que ce soit.'",
+      "Sahih Bukhari 4497 - Hadith sur le Shirk"
+    ],
+    "suggestions": [
+      "Types de Shirk",
+      "Tawhid",
+      "Idolâtrie"
+    ]
+  },
+  {
+    "query": "les attributs de allah",
+    "response": "Allah a 99 noms (Asma al-Husna) comme le Miséricordieux, le Tout-Puissant, le Sage.",
+    "references": [
+      "Coran 7:180 - 'C'est à Allah qu'appartiennent les noms les plus beaux.'",
+      "Sahih Bukhari 2736 - Hadith sur les 99 noms"
+    ],
+    "suggestions": [
+      "99 noms d'Allah",
+      "Attributs divins",
+      "Prière avec noms"
+    ]
+  },
+  {
+    "query": "la vie après la mort en islam",
+    "response": "Après la mort, il y a le Barzakh, puis la résurrection, le jugement et le Paradis ou l'Enfer.",
+    "references": [
+      "Coran 75:1-4 - 'Je jure par le Jour de la Résurrection...'",
+      "Sahih Muslim 2878 - Hadith sur la vie après la mort"
+    ],
+    "suggestions": [
+      "Paradis en Islam",
+      "Enfer",
+      "Jour du Jugement"
+    ]
+  },
+  {
+    "query": "les anges en islam",
+    "response": "Les anges sont des créatures de lumière obéissant à Allah, comme Jibril (Gabriel) qui apporte la révélation.",
+    "references": [
+      "Coran 2:97 - 'Dis : Quiconque est ennemi de Jibril...'",
+      "Sahih Bukhari 3212 - Hadith sur les anges"
+    ],
+    "suggestions": [
+      "Jibril",
+      "Mikail",
+      "Anges gardiens"
+    ]
+  },
+  {
+    "query": "les livres sacrés en islam",
+    "response": "Les livres sacrés sont la Torah, les Psaumes, l'Évangile et le Coran, ce dernier étant le final et inchangé.",
+    "references": [
+      "Coran 5:44 - 'Nous avons fait descendre la Torah...'",
+      "Sahih Muslim 2659 - Hadith sur les livres"
+    ],
+    "suggestions": [
+      "Torah en Islam",
+      "Évangile",
+      "Coran"
+    ]
+  },
+  {
+    "query": "le jour du jugement",
+    "response": "Le Jour du Jugement est quand tous seront ressuscités pour être jugés sur leurs actes, menant au Paradis ou à l'Enfer.",
+    "references": [
+      "Coran 99:1-8 - 'Quand la terre tremblera d'un violent tremblement...'",
+      "Sahih Bukhari 4730 - Hadith sur Qiyamah"
+    ],
+    "suggestions": [
+      "Signes de la fin des temps",
+      "Balance des actes",
+      "Pont Sirat"
+    ]
+  },
+  {
+    "query": "qu'est-ce que la sunna ?",
+    "response": "La Sunna est la tradition du Prophète Muhammad, incluant ses paroles, actes et approbations, complémentant le Coran.",
+    "references": [
+      "Coran 33:21 - 'Vous avez dans le Messager d'Allah un excellent modèle.'",
+      "Sahih Bukhari 1 - Introduction aux Hadith"
+    ],
+    "suggestions": [
+      "Hadith authentiques",
+      "Différence Coran et Sunna",
+      "Sahih Bukhari"
+    ]
+  },
+  {
+    "query": "hadiths célèbres",
+    "response": "Des Hadith célèbres incluent 'Les actions valent par les intentions' et 'La recherche de la connaissance est obligatoire pour tout musulman'.",
+    "references": [
+      "Sahih Bukhari 1 - 'Les actions valent par les intentions.'",
+      "Sunan Ibn Majah 224 - Sur la connaissance"
+    ],
+    "suggestions": [
+      "Hadith sur la charité",
+      "Hadith sur la prière",
+      "Collections de Hadith"
+    ]
+  },
+  {
+    "query": "l'histoire du prophète muhammad",
+    "response": "Muhammad (paix soit sur lui) est né à La Mecque en 570, a reçu la révélation en 610, a migré à Médine en 622, et a répandu l'Islam jusqu'à sa mort en 632.",
+    "references": [
+      "Coran 93:6-8 - Sur l'orphelin Muhammad",
+      "Sahih Bukhari 3 - Hadith sur la vie du Prophète"
+    ],
+    "suggestions": [
+      "Naissance du Prophète",
+      "Hijra",
+      "Conquêtes"
+    ]
+  },
+  {
+    "query": "la kaaba",
+    "response": "La Kaaba est la maison sacrée à La Mecque, construite par Ibrahim et Ismaïl, direction de la prière pour les musulmans.",
+    "references": [
+      "Coran 2:127 - 'Et quand Abraham et Ismaïl élevaient les assises de la Maison...'",
+      "Sahih Bukhari 3364 - Hadith sur la Kaaba"
+    ],
+    "suggestions": [
+      "Pierre noire",
+      "Hajj à la Kaaba",
+      "Histoire de la Kaaba"
+    ]
+  },
+  {
+    "query": "la mecque et médine",
+    "response": "La Mecque est le lieu de naissance du Prophète et du Hajj, Médine est le lieu de la Hijra et de la mosquée du Prophète.",
+    "references": [
+      "Coran 48:24 - 'C'est Lui qui, dans la vallée de La Mecque...'",
+      "Sahih Bukhari 1871 - Hadith sur Médine"
+    ],
+    "suggestions": [
+      "Visite à La Mecque",
+      "Mosquée de Médine",
+      "Lieux saints"
+    ]
+  },
+  {
+    "query": "les califes rashidun",
+    "response": "Les califes bien guidés sont Abu Bakr, Umar, Uthman et Ali, qui ont succédé au Prophète et étendu l'Islam.",
+    "references": [
+      "Sahih Bukhari 3671 - Hadith sur Abu Bakr",
+      "Histoire islamique post-prophétique"
+    ],
+    "suggestions": [
+      "Abu Bakr",
+      "Umar ibn al-Khattab",
+      "Ali ibn Abi Talib"
+    ]
+  },
+  {
+    "query": "l'empire ottoman et l'islam",
+    "response": "L'Empire ottoman (1299-1922) a protégé l'Islam, promu l'art islamique et géré les lieux saints.",
+    "references": [
+      "Histoire ottomane",
+      "Rôle dans le califat"
+    ],
+    "suggestions": [
+      "Suleiman le Magnifique",
+      "Déclin ottoman",
+      "Islam en Turquie"
+    ]
+  },
+  {
+    "query": "l'islam en europe",
+    "response": "L'Islam est arrivé en Europe via l'Andalousie et les Balkans ; aujourd'hui, il y a des communautés croissantes en France, Allemagne, etc.",
+    "references": [
+      "Histoire d'Al-Andalus",
+      "Migrations modernes"
+    ],
+    "suggestions": [
+      "Islam en France",
+      "Mosquées en Europe",
+      "Conversion en Europe"
+    ]
+  },
+  {
+    "query": "conversion à l'islam",
+    "response": "La conversion se fait par la prononciation de la Shahada avec conviction ; pas de rituel complexe requis.",
+    "references": [
+      "Coran 49:17 - 'Ils te rappellent leur conversion à l'Islam comme si c'était une faveur.'",
+      "Sahih Bukhari 1356 - Hadith sur la Shahada"
+    ],
+    "suggestions": [
+      "Shahada",
+      "Vie après conversion",
+      "Témoignages"
+    ]
+  },
+  {
+    "query": "mythes sur l'islam",
+    "response": "Mythes courants : l'Islam opprime les femmes (faux, droits accordés), ou est violent (paix est centrale).",
+    "references": [
+      "Coran 5:32 - 'Celui qui tue un homme... c'est comme s'il avait tué toute l'humanité.'",
+      "Démystification basée sur sources"
+    ],
+    "suggestions": [
+      "Islam et paix",
+      "Femmes en Islam",
+      "Jihad mal compris"
+    ]
+  },
+  {
+    "query": "l'islam et la science",
+    "response": "L'Islam encourage la science ; de nombreux savants musulmans ont contribué à la médecine, maths, astronomie.",
+    "references": [
+      "Coran 96:1 - 'Lis au nom de ton Seigneur qui a créé.'",
+      "Âge d'or islamique"
+    ],
+    "suggestions": [
+      "Savants musulmans",
+      "Versets scientifiques",
+      "Médecine islamique"
+    ]
+  },
+  {
+    "query": "versets coraniques sur la paix",
+    "response": "Le Coran promeut la paix : 'Entrez en paix' (15:46), et 'La paix soit sur vous' comme salutation.",
+    "references": [
+      "Coran 2:208 - 'Ô les croyants ! Entrez pleinement dans l'Islam.'",
+      "Coran 25:63 - Sur les serviteurs du Miséricordieux"
+    ],
+    "suggestions": [
+      "Salam en Islam",
+      "Paix avec non-musulmans",
+      "Guerre juste"
+    ]
+  },
+  {
+    "query": "l'éthique en islam",
+    "response": "L'éthique islamique repose sur la justice, l'honnêteté, la miséricorde et le respect de la création.",
+    "references": [
+      "Coran 16:90 - 'Allah commande la justice, la bienfaisance...'",
+      "Sahih Muslim 2564 - Hadith sur les bonnes mœurs"
+    ],
+    "suggestions": [
+      "Akhlaq",
+      "Éthique des affaires",
+      "Morale quotidienne"
+    ]
+  },
+  {
+    "query": "la charité en islam",
+    "response": "La charité (Sadaqa) est encouragée pour purifier l'âme et aider les autres, au-delà du Zakat obligatoire.",
+    "references": [
+      "Coran 2:261 - 'La parabole de ceux qui dépensent leurs biens dans le chemin d'Allah...'",
+      "Sahih Bukhari 1410 - Hadith sur la Sadaqa"
+    ],
+    "suggestions": [
+      "Types de charité",
+      "Récompenses",
+      "Aider les pauvres"
+    ]
+  },
+  {
+    "query": "le respect des parents",
+    "response": "Le respect des parents est obligatoire, avec gentillesse et prière pour eux, même après leur mort.",
+    "references": [
+      "Coran 17:23 - 'Ton Seigneur a décrété : N'adorez que Lui ; et (marquez) de la bonté envers les parents.'",
+      "Sahih Bukhari 5971 - Hadith sur les parents"
+    ],
+    "suggestions": [
+      "Droits des parents",
+      "Prière pour parents",
+      "Famille en Islam"
+    ]
+  },
+  {
+    "query": "l'honnêteté en islam",
+    "response": "L'honnêteté est une vertu clé ; le mensonge est condamné, sauf dans cas exceptionnels comme la réconciliation.",
+    "references": [
+      "Coran 9:119 - 'Ô les croyants ! Craignez Allah et soyez avec les véridiques.'",
+      "Sahih Muslim 2607 - Hadith sur l'honnêteté"
+    ],
+    "suggestions": [
+      "Mensonge permis",
+      "Commerce honnête",
+      "Vérité en justice"
+    ]
+  },
+  {
+    "query": "le pardon en islam",
+    "response": "Le pardon est encouragé pour gagner la miséricorde de Dieu ; pardonner est meilleur que venger.",
+    "references": [
+      "Coran 42:40 - 'La sanction d'une mauvaise action est une mauvaise action [rétribution] pareille.'",
+      "Sahih Bukhari 2447 - Hadith sur le pardon"
+    ],
+    "suggestions": [
+      "Pardonner les offenses",
+      "Récompense du pardon",
+      "Justice vs pardon"
+    ]
+  },
+  {
+    "query": "la patience en islam",
+    "response": "La patience (Sabr) est une vertu récompensée, aidant à surmonter les épreuves.",
+    "references": [
+      "Coran 2:153 - 'Ô les croyants ! Cherchez secours dans la patience et la prière.'",
+      "Sahih Muslim 2999 - Hadith sur le Sabr"
+    ],
+    "suggestions": [
+      "Patience dans l'épreuve",
+      "Récompenses",
+      "Histoires de patience"
+    ]
+  },
+  {
+    "query": "l'humilité en islam",
+    "response": "L'humilité est louée ; l'orgueil est condamné, comme chez Iblis.",
+    "references": [
+      "Coran 17:37 - 'Et ne marche pas sur la terre avec arrogance.'",
+      "Sahih Bukhari 6499 - Hadith sur l'humilité"
+    ],
+    "suggestions": [
+      "Orgueil en Islam",
+      "Humilité du Prophète",
+      "Modestie"
+    ]
+  },
+  {
+    "query": "les fêtes islamiques",
+    "response": "Les fêtes principales sont Eid al-Fitr (fin du Ramadan) et Eid al-Adha (sacrifice).",
+    "references": [
+      "Coran 22:28 - Sur le sacrifice",
+      "Sahih Bukhari 969 - Hadith sur Eid"
+    ],
+    "suggestions": [
+      "Célébration d'Eid",
+      "Prières d'Eid",
+      "Autres jours sacrés"
+    ]
+  },
+  {
+    "query": "eid al-fitr",
+    "response": "Eid al-Fitr marque la fin du Ramadan, avec prière, charité et fêtes familiales.",
+    "references": [
+      "Sahih Bukhari 953 - Hadith sur Eid al-Fitr",
+      "Tradition prophétique"
+    ],
+    "suggestions": [
+      "Zakat al-Fitr",
+      "Salat al-Eid",
+      "Cadeaux d'Eid"
+    ]
+  },
+  {
+    "query": "eid al-adha",
+    "response": "Eid al-Adha commémore le sacrifice d'Ibrahim, avec prière et sacrifice animal partagé.",
+    "references": [
+      "Coran 37:102 - Histoire d'Ibrahim",
+      "Sahih Muslim 1960 - Hadith sur le sacrifice"
+    ],
+    "suggestions": [
+      "Sacrifice animal",
+      "Hajj et Eid",
+      "Distribution de viande"
+    ]
+  },
+  {
+    "query": "le mawlid",
+    "response": "Le Mawlid est la célébration de la naissance du Prophète, pratiquée par certains musulmans avec prières et chants.",
+    "references": [
+      "Traditions soufies",
+      "Débats sur sa légitimité"
+    ],
+    "suggestions": [
+      "Naissance du Prophète",
+      "Célébrations",
+      "Opinions sur Mawlid"
+    ]
+  },
+  {
+    "query": "l'islam et l'environnement",
+    "response": "L'Islam enseigne la protection de l'environnement comme un dépôt de Dieu, interdisant le gaspillage.",
+    "references": [
+      "Coran 7:31 - 'Mangez et buvez ; mais n'exagérez pas.'",
+      "Sahih Bukhari 225 - Hadith sur l'eau"
+    ],
+    "suggestions": [
+      "Écologie islamique",
+      "Gaspillage",
+      "Animaux et nature"
+    ]
+  },
+  {
+    "query": "les musulmans et les non-musulmans",
+    "response": "Les musulmans doivent traiter les non-musulmans avec justice et kindness, sauf en cas de persécution.",
+    "references": [
+      "Coran 60:8 - 'Allah ne vous défend pas d'être bienfaisants et équitables envers ceux qui ne vous ont pas combattus.'",
+      "Sahih Bukhari 1356 - Hadith sur les voisins"
+    ],
+    "suggestions": [
+      "Relations interfaith",
+      "Droits des minorités",
+      "Dialogue"
+    ]
+  },
+  {
+    "query": "le dialogue interreligieux",
+    "response": "L'Islam encourage le dialogue avec les gens du Livre pour la compréhension mutuelle.",
+    "references": [
+      "Coran 29:46 - 'Et ne discutez que de la meilleure façon avec les gens du Livre.'",
+      "Exemples prophétiques"
+    ],
+    "suggestions": [
+      "Islam et christianisme",
+      "Islam et judaïsme",
+      "Conférences interfaith"
+    ]
+  },
+  {
+    "query": "l'islam et le christianisme",
+    "response": "Les deux partagent des prophètes, mais diffèrent sur la Trinité et la divinité de Jésus, vu comme prophète en Islam.",
+    "references": [
+      "Coran 5:72 - 'Ceux qui disent : Allah est, en vérité, le Messie, fils de Marie...'",
+      "Coran 19:30 - Sur Jésus"
+    ],
+    "suggestions": [
+      "Jésus en Islam",
+      "Marie en Islam",
+      "Points communs"
+    ]
+  },
+  {
+    "query": "l'islam et le judaïsme",
+    "response": "Les deux sont monothéistes, partagent des prophètes comme Moïse, mais diffèrent sur Muhammad comme dernier prophète.",
+    "references": [
+      "Coran 5:20 - Sur Moïse",
+      "Relations historiques"
+    ],
+    "suggestions": [
+      "Moïse en Islam",
+      "Abraham",
+      "Lois alimentaires"
+    ]
+  },
+  {
+    "query": "les soufis",
+    "response": "Les Soufis pratiquent le tasawwuf, la dimension spirituelle de l'Islam, avec dhikr et amour pour Dieu.",
+    "references": [
+      "Traditions de Ali et du Prophète",
+      "Œuvres de Rumi"
+    ],
+    "suggestions": [
+      "Tasawwuf",
+      "Rumi",
+      "Ordres soufis"
+    ]
+  },
+  {
+    "query": "le tasawwuf",
+    "response": "Le Tasawwuf est la purification de l'âme pour se rapprocher de Dieu par la dévotion et l'ascèse.",
+    "references": [
+      "Coran 91:9 - 'A réussi, certes celui qui la purifie.'",
+      "Hadith sur le cœur"
+    ],
+    "suggestions": [
+      "Dhikr",
+      "Méditation islamique",
+      "Maîtres soufis"
+    ]
+  },
+  {
+    "query": "les écoles juridiques en islam",
+    "response": "Les quatre écoles sunnites sont Hanafi, Maliki, Shafi'i et Hanbali, basées sur l'interprétation du Coran et Sunna.",
+    "references": [
+      "Fiqh historique",
+      "Fondateurs comme Abu Hanifa"
+    ],
+    "suggestions": [
+      "Hanafi",
+      "Maliki",
+      "Différences entre écoles"
+    ]
+  },
+  {
+    "query": "hanafi, maliki, shafi'i, hanbali",
+    "response": "Ces écoles diffèrent sur des détails comme la prière, mais s'accordent sur les fondamentaux.",
+    "references": [
+      "Livres de fiqh",
+      "Consensus (Ijma)"
+    ],
+    "suggestions": [
+      "Choisir une école",
+      "Ijtihad",
+      "Fiqh moderne"
+    ]
+  },
+  {
+    "query": "le fiqh",
+    "response": "Le Fiqh est la jurisprudence islamique, dérivant des règles pratiques du Coran et Sunna.",
+    "references": [
+      "Coran 4:59 - 'Obéissez à Allah, au Messager et à ceux d'entre vous qui détiennent le commandement.'",
+      "Usul al-Fiqh"
+    ],
+    "suggestions": [
+      "Sources du Fiqh",
+      "Fatwas",
+      "Fiqh quotidien"
+    ]
+  },
+  {
+    "query": "les interdits alimentaires en islam",
+    "response": "Interdits : porc, alcool, viande non halal, sang ; tout doit être halal et tayyib.",
+    "references": [
+      "Coran 5:3 - 'Vous sont interdits la bête trouvée morte, le sang, la chair de porc...'",
+      "Sahih Muslim 1937 - Hadith sur la nourriture"
+    ],
+    "suggestions": [
+      "Halal",
+      "Viande halal",
+      "Jeûne et nourriture"
+    ]
+  },
+  {
+    "query": "le halal",
+    "response": "Halal signifie permis ; pour la nourriture, abattage au nom d'Allah, sans souffrance.",
+    "references": [
+      "Coran 5:4 - 'On vous a permis les bonnes choses.'",
+      "Sahih Bukhari 2360 - Hadith sur l'abattage"
+    ],
+    "suggestions": [
+      "Certification halal",
+      "Haram",
+      "Cosmétiques halal"
+    ]
+  },
+  {
+    "query": "le jeûne intermittent en islam",
+    "response": "Le jeûne intermittent est permis hors Ramadan, comme le jeûne du lundi et jeudi, pour la santé et la récompense.",
+    "references": [
+      "Sahih Bukhari 1975 - Hadith sur le jeûne volontaire",
+      "Bienfaits spirituels"
+    ],
+    "suggestions": [
+      "Jeûne sunnah",
+      "Santé et jeûne",
+      "Rupture du jeûne"
+    ]
+  },
+  {
+    "query": "la prière de nuit",
+    "response": "La prière de nuit (Qiyam al-Layl) est surérogatoire, hautement récompensée pour la proximité avec Dieu.",
+    "references": [
+      "Coran 73:2 - 'Lève-toi pour prier pendant la nuit...'",
+      "Sahih Muslim 1163 - Hadith sur Qiyam"
+    ],
+    "suggestions": [
+      "Tahajjud",
+      "Witr",
+      "Prières nocturnes en Ramadan"
+    ]
+  },
+  {
+    "query": "le tahajjud",
+    "response": "Tahajjud est la prière volontaire de nuit après sommeil, en rak'ats pairs plus Witr.",
+    "references": [
+      "Coran 17:79 - 'Et de la nuit consacre une partie [avant l'aube] à des prières surérogatoires...'",
+      "Sahih Bukhari 1139 - Hadith sur Tahajjud"
+    ],
+    "suggestions": [
+      "Heures de Tahajjud",
+      "Bénéfices",
+      "Dou'as pendant"
+    ]
+  },
+  {
+    "query": "le witr",
+    "response": "Witr est la prière impaire de fin de nuit, de 1 à 11 rak'ats, emphatique sunnah.",
+    "references": [
+      "Sahih Muslim 751 - Hadith sur Witr",
+      "Pratique du Prophète"
+    ],
+    "suggestions": [
+      "Qunoot en Witr",
+      "Rak'ats de Witr",
+      "Après Isha"
+    ]
+  },
+  {
+    "query": "les dou'as quotidiennes",
+    "response": "Les dou'as sont des supplications quotidiennes pour protection, comme celle du matin et soir.",
+    "references": [
+      "Coran 2:201 - 'Notre Seigneur ! Donne-nous une belle part dans ce monde...'",
+      "Sahih Bukhari 6306 - Hadith sur dou'as"
+    ],
+    "suggestions": [
+      "Dou'a du matin",
+      "Dou'a du soir",
+      "Dou'as prophétiques"
+    ]
+  },
+  {
+    "query": "la lecture du coran",
+    "response": "La lecture du Coran est un acte d'adoration, avec récompense pour chaque lettre, en Tajwid.",
+    "references": [
+      "Coran 73:4 - 'Et récite le Coran lentement et distinctement.'",
+      "Sahih Bukhari 5027 - Hadith sur la lecture"
+    ],
+    "suggestions": [
+      "Tajwid",
+      "Récompenses",
+      "Lecture quotidienne"
+    ]
+  },
+  {
+    "query": "la mémorisation du coran",
+    "response": "Mémoriser le Coran (Hifz) est honoré, avec promesses de Paradis pour les Hafiz.",
+    "references": [
+      "Coran 54:17 - 'Nous avons rendu le Coran facile pour la méditation.'",
+      "Sahih Muslim 798 - Hadith sur les mémorisateurs"
+    ],
+    "suggestions": [
+      "Méthodes de mémorisation",
+      "Hafiz célèbres",
+      "Révision du Coran"
+    ]
+  },
+  {
+    "query": "les miracles du coran",
+    "response": "Miracles linguistiques, scientifiques et prophétiques du Coran prouvent son origine divine.",
+    "references": [
+      "Coran 17:88 - 'Si les hommes et les djinns s'unissaient pour produire quelque chose de similaire...'",
+      "Versets scientifiques"
+    ],
+    "suggestions": [
+      "Inimitabilité",
+      "Prophéties",
+      "Linguistique"
+    ]
+  },
+  {
+    "query": "la calligraphie islamique",
+    "response": "La calligraphie est l'art d'écrire le Coran et les textes sacrés, avec styles comme Kufi, Naskh.",
+    "references": [
+      "Tradition artistique islamique",
+      "Coran comme source"
+    ],
+    "suggestions": [
+      "Styles de calligraphie",
+      "Artistes célèbres",
+      "Calligraphie moderne"
+    ]
+  },
+  {
+    "query": "l'architecture islamique",
+    "response": "L'architecture islamique inclut minarets, dômes, arabesques, comme dans les mosquées de Cordoue ou Istanbul.",
+    "references": [
+      "Influence byzantine et perse",
+      "Mosquée du Prophète comme modèle"
+    ],
+    "suggestions": [
+      "Mosquées célèbres",
+      "Éléments architecturaux",
+      "Jardins islamiques"
+    ]
+  },
+  {
+    "query": "les mosquées célèbres",
+    "response": "Mosquées célèbres : Al-Haram à La Mecque, Al-Aqsa à Jérusalem, Sainte-Sophie à Istanbul.",
+    "references": [
+      "Histoire des mosquées",
+      "Coran 9:18 - Sur l'entretien des mosquées"
+    ],
+    "suggestions": [
+      "Mosquée du Prophète",
+      "Al-Aqsa",
+      "Constructions modernes"
+    ]
+  },
+  {
+    "query": "l'islam en afrique",
+    "response": "L'Islam s'est répandu en Afrique via le commerce, avec des empires comme Mali et Songhaï.",
+    "references": [
+      "Histoire de Bilal l'Éthiopien",
+      "Migrations arabes"
+    ],
+    "suggestions": [
+      "Islam au Sénégal",
+      "Soufisme africain",
+      "Mansa Musa"
+    ]
+  },
+  {
+    "query": "l'islam en asie",
+    "response": "L'Islam est majoritaire en Asie du Sud-Est et Centrale, arrivé via commerçants et conquêtes.",
+    "references": [
+      "Indonésie comme plus grand pays musulman",
+      "Histoire mongole"
+    ],
+    "suggestions": [
+      "Islam en Indonésie",
+      "Islam en Chine",
+      "Asie centrale"
+    ]
+  },
+  {
+    "query": "les musulmans célèbres",
+    "response": "Musulmans célèbres : Muhammad Ali (boxeur), Malala Yousafzai (activiste), Ibn Battuta (voyageur).",
+    "references": [
+      "Contributions modernes",
+      "Histoire"
+    ],
+    "suggestions": [
+      "Savants modernes",
+      "Artistes musulmans",
+      "Leaders"
+    ]
+  },
+  {
+    "query": "les inventions musulmanes",
+    "response": "Inventions : algèbre (Al-Khwarizmi), optique (Ibn al-Haytham), hôpitaux.",
+    "references": [
+      "Âge d'or islamique",
+      "Livres comme 'Canon de médecine'"
+    ],
+    "suggestions": [
+      "Maths islamiques",
+      "Médecine",
+      "Astronomie"
+    ]
+  },
+  {
+    "query": "al-khwarizmi",
+    "response": "Al-Khwarizmi est le père de l'algèbre, a contribué aux maths et à la géographie au 9e siècle.",
+    "references": [
+      "Livre 'Al-Jabr'",
+      "Maison de la Sagesse"
+    ],
+    "suggestions": [
+      "Algorithmes",
+      "Maths arabes",
+      "Autres savants"
+    ]
+  },
+  {
+    "query": "ibn sina",
+    "response": "Ibn Sina (Avicenne) est un philosophe et médecin, auteur du 'Canon de médecine' influençant l'Europe.",
+    "references": [
+      "Œuvres médicales",
+      "Philosophie"
+    ],
+    "suggestions": [
+      "Médecine islamique",
+      "Philosophie",
+      "Influence sur l'Occident"
+    ]
+  },
+  {
+    "query": "rumi",
+    "response": "Rumi est un poète soufi, auteur du Mathnawi, enseignant l'amour divin et la tolérance.",
+    "references": [
+      "Poèmes de Rumi",
+      "Soufisme"
+    ],
+    "suggestions": [
+      "Mathnawi",
+      "Poésie soufie",
+      "Citations de Rumi"
+    ]
+  },
+  {
+    "query": "les poètes musulmans",
+    "response": "Poètes comme Rumi, Hafez, Iqbal, exprimant spiritualité et amour.",
+    "references": [
+      "Littérature persane et arabe",
+      "Influence coranique"
+    ],
+    "suggestions": [
+      "Hafez",
+      "Iqbal",
+      "Poésie arabe"
+    ]
+  },
+  {
+    "query": "la musique en islam",
+    "response": "La musique instrumentale est débattue ; les nasheeds (chants sans instruments) sont permis pour louer Dieu.",
+    "references": [
+      "Hadith sur la musique (controversé)",
+      "Opinions des écoles"
+    ],
+    "suggestions": [
+      "Nasheeds",
+      "Qawwali",
+      "Avis sur musique"
+    ]
+  },
+  {
+    "query": "les nasheeds",
+    "response": "Les nasheeds sont des chants islamiques a cappella, louant Allah et le Prophète.",
+    "references": [
+      "Tradition prophétique de chants",
+      "Art soufi"
+    ],
+    "suggestions": [
+      "Nasheeds célèbres",
+      "Artistes nasheed",
+      "Chants en prière"
+    ]
+  },
+  {
+    "query": "le sport en islam",
+    "response": "Le sport est encouragé pour la santé, comme l'équitation, la natation, le tir à l'arc.",
+    "references": [
+      "Sahih Bukhari 2874 - Hadith sur les sports",
+      "Santé physique"
+    ],
+    "suggestions": [
+      "Sports halal",
+      "Femmes et sport",
+      "Jeûne et sport"
+    ]
+  },
+  {
+    "query": "les femmes dans l'histoire islamique",
+    "response": "Femmes comme Khadija (première musulmane), Aisha (savante), Fatima (fille du Prophète).",
+    "references": [
+      "Biographies dans Sirah",
+      "Rôles dans batailles"
+    ],
+    "suggestions": [
+      "Khadija",
+      "Aisha",
+      "Femmes savantes"
+    ]
+  },
+  {
+    "query": "aisha bint abi bakr",
+    "response": "Aisha était l'épouse du Prophète, une savante transmettant des milliers de Hadith.",
+    "references": [
+      "Sahih Bukhari (nombreux Hadith d'Aisha)",
+      "Rôle dans l'histoire"
+    ],
+    "suggestions": [
+      "Hadith d'Aisha",
+      "Vie d'Aisha",
+      "Femmes compagnons"
+    ]
+  },
+  {
+    "query": "fatima az-zahra",
+    "response": "Fatima était la fille du Prophète, épouse d'Ali, modèle de piété et de patience.",
+    "references": [
+      "Hadith sur Fatima",
+      "Lignée prophétique"
+    ],
+    "suggestions": [
+      "Vie de Fatima",
+      "Ahl al-Bayt",
+      "Femmes en Islam"
+    ]
+  },
+  {
+    "query": "les compagnons du prophète",
+    "response": "Les Sahaba sont les compagnons du Prophète, promis le Paradis pour leur foi.",
+    "references": [
+      "Coran 9:100 - 'Les tout premiers [croyants] parmi les Émigrants et les Auxiliaires...'",
+      "Sahih Bukhari 3672 - Hadith sur les Sahaba"
+    ],
+    "suggestions": [
+      "Dix promis au Paradis",
+      "Histoires de Sahaba",
+      "Ansar et Muhajirun"
+    ]
+  },
+  {
+    "query": "abu bakr",
+    "response": "Abu Bakr était le premier calife, compagnon proche, connu pour sa générosité et foi.",
+    "references": [
+      "Coran 9:40 - 'Si vous ne lui portez pas secours... Allah l'a déjà secouru, lorsque ceux qui avaient mécru l'avaient banni, deuxième de deux.'",
+      "Sahih Bukhari 3661 - Hadith sur Abu Bakr"
+    ],
+    "suggestions": [
+      "Califat d'Abu Bakr",
+      "Amitié avec le Prophète",
+      "Ridda wars"
+    ]
+  },
+  {
+    "query": "umar ibn al-khattab",
+    "response": "Umar était le deuxième calife, connu pour sa justice et expansions territoriales.",
+    "references": [
+      "Hadith sur Umar comme porte de la science",
+      "Califat juste"
+    ],
+    "suggestions": [
+      "Conversion d'Umar",
+      "Réformes",
+      "Conquêtes"
+    ]
+  },
+  {
+    "query": "uthman ibn affan",
+    "response": "Uthman était le troisième calife, a compilé le Coran, connu pour sa modestie.",
+    "references": [
+      "Compilation du Coran sous Uthman",
+      "Sahih Bukhari 4986 - Hadith sur Uthman"
+    ],
+    "suggestions": [
+      "Compilation du Coran",
+      "Califat d'Uthman",
+      "Martyrdom"
+    ]
+  },
+  {
+    "query": "ali ibn abi talib",
+    "response": "Ali était le cousin et gendre du Prophète, quatrième calife, connu pour sa sagesse.",
+    "references": [
+      "Coran 33:33 - Ahl al-Bayt",
+      "Sahih Muslim 2408 - Hadith sur Ali"
+    ],
+    "suggestions": [
+      "Imamat en chiisme",
+      "Batailles d'Ali",
+      "Nahj al-Balagha"
+    ]
+  },
+  {
+    "query": "le concept de ummah",
+    "response": "La Ummah est la communauté musulmane unie par la foi, transcendant les nations.",
+    "references": [
+      "Coran 21:92 - 'Cette communauté, la vôtre, est une seule communauté...'",
+      "Hadith sur l'unité"
+    ],
+    "suggestions": [
+      "Unité musulmane",
+      "Solidarité",
+      "Ummah mondiale"
+    ]
+  },
+  {
+    "query": "la solidarité musulmane",
+    "response": "La solidarité est obligatoire, comme aider les frères en foi comme un corps unique.",
+    "references": [
+      "Coran 49:10 - 'Les croyants ne sont que des frères.'",
+      "Sahih Muslim 2586 - Hadith sur les musulmans comme un corps"
+    ],
+    "suggestions": [
+      "Aide aux musulmans",
+      "Zakat pour solidarité",
+      "Unité"
+    ]
+  },
+  {
+    "query": "l'islam et l'économie",
+    "response": "L'économie islamique interdit l'usure, encourage le commerce honnête et la charité.",
+    "references": [
+      "Coran 2:275 - 'Ceux qui mangent [du fruit] de l'usure ne se dresseront, au Jour de la Résurrection, que comme se dresse celui que le Diable a jeté à terre...'",
+      "Sahih Bukhari 2083 - Hadith sur le commerce"
+    ],
+    "suggestions": [
+      "Banque islamique",
+      "Usure (Riba)",
+      "Commerce halal"
+    ]
+  },
+  {
+    "query": "la banque islamique",
+    "response": "La banque islamique utilise le partage des profits/perdes au lieu de l'intérêt, comme Mudarabah.",
+    "references": [
+      "Principes anti-riba",
+      "Fatwas modernes"
+    ],
+    "suggestions": [
+      "Produits islamiques",
+      "Sukuk",
+      "Finance éthique"
+    ]
+  },
+  {
+    "query": "l'interdiction de l'usure",
+    "response": "L'usure (Riba) est interdite car elle exploite, favorisant l'équité économique.",
+    "references": [
+      "Coran 3:130 - 'Ô les croyants ! Ne pratiquez pas l'usure...'",
+      "Sahih Muslim 1598 - Hadith sur riba"
+    ],
+    "suggestions": [
+      "Types de riba",
+      "Alternatives",
+      "Économie sans intérêt"
+    ]
+  },
+  {
+    "query": "le commerce en islam",
+    "response": "Le commerce est encouragé avec honnêteté, sans fraude ni monopole.",
+    "references": [
+      "Coran 4:29 - 'Ô les croyants ! Ne vous dévorez pas mutuellement vos biens...'",
+      "Sahih Bukhari 2078 - Hadith sur le commerce"
+    ],
+    "suggestions": [
+      "Commerce prophétique",
+      "Contrats halal",
+      "Marchés islamiques"
+    ]
+  },
+  {
+    "query": "les droits des travailleurs",
+    "response": "Les travailleurs ont droit à un salaire juste, repos et traitement humain.",
+    "references": [
+      "Coran 65:6 - Sur le paiement juste",
+      "Sahih Bukhari 2270 - Hadith sur les salaires"
+    ],
+    "suggestions": [
+      "Salaire minimum",
+      "Travail en Islam",
+      "Esclavage aboli"
+    ]
+  },
+  {
+    "query": "l'islam et la médecine",
+    "response": "L'Islam encourage la médecine, avec Prophète recommandant traitements et prière.",
+    "references": [
+      "Sahih Bukhari 5678 - Hadith sur la médecine",
+      "Canon d'Avicenne"
+    ],
+    "suggestions": [
+      "Guérison par Coran",
+      "Bioéthique",
+      "Santé en Islam"
+    ]
+  },
+  {
+    "query": "la bioéthique islamique",
+    "response": "La bioéthique protège la vie, interdit clonage humain, permet transplantation avec conditions.",
+    "references": [
+      "Fatwas du Fiqh Council",
+      "Principes de non-nuisance"
+    ],
+    "suggestions": [
+      "Avortement",
+      "Euthanasie",
+      "Génétique"
+    ]
+  },
+  {
+    "query": "le clonage en islam",
+    "response": "Le clonage thérapeutique est débattu, mais reproductif humain est interdit comme altérant la création de Dieu.",
+    "references": [
+      "Coran 4:119 - Sur altérer la création",
+      "Fatwas modernes"
+    ],
+    "suggestions": [
+      "Bioéthique",
+      "Génétique",
+      "Vie artificielle"
+    ]
+  },
+  {
+    "query": "l'avortement en islam",
+    "response": "L'avortement est interdit après 120 jours (ensoulment), permis avant pour raisons graves comme santé de la mère.",
+    "references": [
+      "Sahih Muslim 2643 - Hadith sur l'ensoulment",
+      "Fiqh opinions"
+    ],
+    "suggestions": [
+      "Ensoulment",
+      "Santé maternelle",
+      "Droits du fœtus"
+    ]
+  },
+  {
+    "query": "le suicide en islam",
+    "response": "Le suicide est interdit, menant à l'Enfer, car la vie appartient à Dieu.",
+    "references": [
+      "Coran 4:29 - 'Ne vous tuez pas vous-mêmes.'",
+      "Sahih Bukhari 5778 - Hadith sur le suicide"
+    ],
+    "suggestions": [
+      "Santé mentale",
+      "Prévention",
+      "Pardon pour suicidé"
+    ]
+  },
+  {
+    "query": "la dépression en islam",
+    "response": "La dépression est traitée par prière, dhikr et communauté ; chercher aide médicale est encouragé.",
+    "references": [
+      "Coran 94:5-6 - 'À côté de la difficulté est, certes, une facilité !'",
+      "Hadith sur la patience"
+    ],
+    "suggestions": [
+      "Dou'as contre tristesse",
+      "Thérapie islamique",
+      "Soutien communautaire"
+    ]
+  },
+  {
+    "query": "la santé mentale en islam",
+    "response": "La santé mentale est importante ; l'Islam promeut l'équilibre, la prière et l'aide professionnelle.",
+    "references": [
+      "Coran 13:28 - 'C'est par le rappel d'Allah que les cœurs s'apaisent.'",
+      "Hadith sur la tristesse"
+    ],
+    "suggestions": [
+      "Stress en Islam",
+      "Psychologie islamique",
+      "Conseils prophétiques"
+    ]
+  },
+  {
+    "query": "l'islam et l'éducation",
+    "response": "L'éducation est obligatoire pour hommes et femmes ; 'Cherche la connaissance même en Chine'.",
+    "references": [
+      "Coran 96:1 - 'Lis !'",
+      "Sunan Ibn Majah 224 - Hadith sur la connaissance"
+    ],
+    "suggestions": [
+      "Éducation des enfants",
+      "Universités islamiques",
+      "Apprentissage à vie"
+    ]
+  },
+  {
+    "query": "les universités islamiques anciennes",
+    "response": "Universités comme Al-Qarawiyyin (859) et Al-Azhar, centres de savoir pendant l'Âge d'or.",
+    "references": [
+      "Histoire islamique",
+      "Fondée par Fatima al-Fihri"
+    ],
+    "suggestions": [
+      "Al-Azhar",
+      "Maison de la Sagesse",
+      "Éducation médiévale"
+    ]
+  },
+    {
+        "query": "l'éducation des enfants en islam",
+        "response": "Les enfants doivent être éduqués dans la foi, le respect, et la connaissance du Coran et Sunna.",
+        "references": [
+        "Coran 31:13 - 'Et commande à ta famille la prière et sois assidu à son accomplissement.'",
+        "Sahih Bukhari 5975 - Hadith sur l'éducation des enfants"
+        ],
+        "suggestions": [
+        "Enseignement du Coran",
+        "Discipline en Islam",
+        "Rôle des parents"
+        ]
+    },
+    {
+        "query": "le rôle des parents en islam",
+        "response": "Les parents doivent élever les enfants avec amour, discipline, et enseignement religieux.",
+        "references": [
+        "Coran 17:23 - 'Et ton Seigneur a décrété : N'adorez que Lui ; et (marquez) de la bonté envers les parents.'",
+        "Sahih Bukhari 5971 - Hadith sur les droits des parents"
+        ],
+        "suggestions": [
+        "Droits des enfants",
+        "Éducation religieuse",
+        "Responsabilités parentales"
+        ]
+    },
+    {
+        "query": "l'importance de la connaissance en islam",
+        "response": "La connaissance est valorisée, avec le Prophète disant que chercher la connaissance est une obligation pour chaque musulman.",
+        "references": [
+        "Coran 20:114 - 'Mon Seigneur, accrois-moi en savoir.'",
+        "Sunan Ibn Majah 224 - Hadith sur la quête de la connaissance"
+        ],
+        "suggestions": [
+        "Savoir et foi",
+        "Éducation continue",
+        "Savants islamiques"
+        ]
+    },
+    {
+        "query": "les savants islamiques célèbres",
+        "response": "Savants comme Al-Ghazali, Ibn Rushd (Averroès), et Ibn Khaldun ont grandement contribué à la philosophie, la théologie et l'histoire.",
+        "references": [
+        "Œuvres d'Al-Ghazali",
+        "Philosophie d'Ibn Rushd"
+        ],
+        "suggestions": [
+        "Philosophie islamique",
+        "Théologie",
+        "Histoire islamique"
+        ]
+    },
+    {
+      "query": "Origine de l'univers dans le Coran",
+      "response": "Le Coran décrit l'univers comme issu d'une masse unique séparée, correspondant à la théorie du Big Bang.",
+      "references": [
+        "Coran 21:30 - Les cieux et la terre formaient une masse compacte, puis séparés",
+        "Document: Le Coran et la Science Moderne, p. 7"
+      ],
+      "suggestions": [
+        "Big Bang",
+        "Création cosmique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "État initial de l'univers",
+      "response": "Le Coran décrit l'univers comme étant initialement de la 'fumée', correspondant à la matière gazeuse primordiale.",
+      "references": [
+        "Coran 41:11 - Le ciel était alors fumée",
+        "Document: Le Coran et la Science Moderne, p. 8"
+      ],
+      "suggestions": [
+        "Formation des galaxies",
+        "Nébuleuse primaire",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Forme sphérique de la Terre",
+      "response": "Le Coran indique que la Terre est sphérique par la transition graduelle du jour et de la nuit.",
+      "references": [
+        "Coran 31:29 - Allah fait pénétrer la nuit dans le jour",
+        "Document: Le Coran et la Science Moderne, p. 9"
+      ],
+      "suggestions": [
+        "Géographie coranique",
+        "Forme de la Terre",
+        "Rotation terrestre"
+      ]
+    },
+    {
+      "query": "Forme géo-sphérique de la Terre",
+      "response": "La Terre est décrite comme un œuf d'autruche, correspondant à sa forme aplatie aux pôles.",
+      "references": [
+        "Coran 79:30 - Il l'a étendue (dahaha)",
+        "Document: Le Coran et la Science Moderne, p. 10"
+      ],
+      "suggestions": [
+        "Forme de la Terre",
+        "Géologie coranique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "Soleil comme source de lumière",
+      "response": "Le Coran décrit le soleil comme une 'torche' ou 'lampe', produisant sa propre lumière.",
+      "references": [
+        "Coran 25:61 - Un luminaire",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière solaire",
+        "Astronomie coranique",
+        "Énergie solaire"
+      ]
+    },
+    {
+      "query": "Lune réfléchissant la lumière",
+      "response": "Le Coran décrit la lune comme un corps réfléchissant la lumière, non émetteur.",
+      "references": [
+        "Coran 25:61 - Une lune éclairante",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière lunaire",
+        "Astronomie coranique",
+        "Réflexion lumineuse"
+      ]
+    },
+    {
+      "query": "Rotation du soleil",
+      "response": "Le Coran indique que le soleil tourne sur son axe, un fait découvert récemment.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Astronomie moderne",
+        "Rotation des corps célestes"
+      ]
+    },
+    {
+      "query": "Orbits des corps célestes",
+      "response": "Le Coran mentionne que le soleil et la lune suivent des orbites distinctes.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Système solaire",
+        "Héliocentrisme",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Apex solaire",
+      "response": "Le Coran suggère que le soleil se dirige vers un point précis, appelé apex solaire.",
+      "references": [
+        "Coran 36:38 - Court vers un gîte assigné",
+        "Document: Le Coran et la Science Moderne, p. 14"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Galaxie de la Voie lactée",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Fin du soleil",
+      "response": "Le Coran indique que le soleil s'éteindra après une période déterminée.",
+      "references": [
+        "Coran 36:38 - Court vers un gîte assigné",
+        "Document: Le Coran et la Science Moderne, p. 15"
+      ],
+      "suggestions": [
+        "Cycle stellaire",
+        "Mort du soleil",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Matière interstellaire",
+      "response": "Le Coran mentionne l'existence de matière entre les cieux et la terre, comme le plasma.",
+      "references": [
+        "Coran 25:59 - Tout ce qui existe entre eux",
+        "Document: Le Coran et la Science Moderne, p. 16"
+      ],
+      "suggestions": [
+        "Plasma cosmique",
+        "Matière interstellaire",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Expansion de l'univers",
+      "response": "Le Coran décrit l'univers en expansion, un fait découvert par Hubble en 1925.",
+      "references": [
+        "Coran 51:47 - Nous lui faisons subir une expansion",
+        "Document: Le Coran et la Science Moderne, p. 17"
+      ],
+      "suggestions": [
+        "Expansion cosmique",
+        "Théorie de Hubble",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Rotation de la lune",
+      "response": "Le Coran indique que la lune tourne sur son axe, prenant environ 29,5 jours.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 14"
+      ],
+      "suggestions": [
+        "Mouvement lunaire",
+        "Astronomie coranique",
+        "Cycle lunaire"
+      ]
+    },
+    {
+      "query": "Sept cieux superposés",
+      "response": "Le Coran décrit sept cieux superposés, suggérant une structure cosmique complexe.",
+      "references": [
+        "Coran 71:15 - Sept cieux superposés",
+        "Document: Le Coran et la Science Moderne, p. 12"
+      ],
+      "suggestions": [
+        "Cosmologie coranique",
+        "Structure de l'univers",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Mouvement des étoiles",
+      "response": "Le Coran suggère que les étoiles suivent des trajectoires, comme les orbites.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite"
+      ],
+      "suggestions": [
+        "Mouvement stellaire",
+        "Astronomie coranique",
+        "Galaxies"
+      ]
+    },
+    {
+      "query": "Création en six jours",
+      "response": "Le Coran mentionne la création des cieux et de la terre en six périodes.",
+      "references": [
+        "Coran 25:59 - En six jours"
+      ],
+      "suggestions": [
+        "Cosmogonie",
+        "Création universelle",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "Lumière des constellations",
+      "response": "Le Coran mentionne les constellations comme sources de lumière dans le ciel.",
+      "references": [
+        "Coran 25:61 - Placé au ciel des constellations"
+      ],
+      "suggestions": [
+        "Astronomie coranique",
+        "Constellations",
+        "Lumière stellaire"
+      ]
+    },
+    {
+      "query": "Trajectoire du soleil",
+      "response": "Le Coran indique que le soleil suit une trajectoire précise dans l'espace.",
+      "references": [
+        "Coran 36:40 - Chacun vogue dans sa propre orbite"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Astronomie moderne",
+        "Voie lactée"
+      ]
+    },
+    {
+      "query": "Séparation des cieux",
+      "response": "Le Coran décrit la séparation des cieux, correspondant à la formation des galaxies.",
+      "references": [
+        "Coran 21:30 - Nous les avons séparés"
+      ],
+      "suggestions": [
+        "Formation des galaxies",
+        "Big Bang",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Mouvement galactique",
+      "response": "Le Coran suggère que les galaxies suivent des mouvements ordonnés.",
+      "references": [
+        "Coran 36:40 - Chacun vogue dans sa propre orbite"
+      ],
+      "suggestions": [
+        "Mouvement galactique",
+        "Astronomie moderne",
+        "Structure cosmique"
+      ]
+    },
+    {
+      "query": "Particules subatomiques",
+      "response": "Le Coran mentionne l'existence de particules plus petites que l'atome.",
+      "references": [
+        "Coran 34:3 - Rien n'existe de plus petit ni de plus grand",
+        "Document: Le Coran et la Science Moderne, p. 19"
+      ],
+      "suggestions": [
+        "Physique quantique",
+        "Atomisme",
+        "Science moderne"
+      ]
+    },
+    {
+      "query": "Omniscience divine et particules",
+      "response": "Le Coran indique que Dieu connaît tout, même les particules subatomiques.",
+      "references": [
+        "Coran 10:61 - Rien ne Lui échappe",
+        "Document: Le Coran et la Science Moderne, p. 20"
+      ],
+      "suggestions": [
+        "Physique des particules",
+        "Omniscience divine",
+        "Science coranique"
+      ]
+    },
+    {
+      "query": "Cycle de l'eau",
+      "response": "Le Coran décrit le cycle de l'eau, incluant évaporation, condensation et précipitation.",
+      "references": [
+        "Coran 39:21 - Il l'achemine vers des sources dans la terre",
+        "Document: Le Coran et la Science Moderne, p. 21"
+      ],
+      "suggestions": [
+        "Hydrologie",
+        "Cycle hydrologique",
+        "Géographie coranique"
+      ]
+    },
+    {
+      "query": "Vents fécondants",
+      "response": "Le Coran décrit les vents comme poussant les nuages pour provoquer la pluie.",
+      "references": [
+        "Coran 15:22 - Vents fécondants",
+        "Document: Le Coran et la Science Moderne, p. 23"
+      ],
+      "suggestions": [
+        "Météorologie",
+        "Formation des nuages",
+        "Précipitations"
+      ]
+    },
+    {
+      "query": "Précipitations par les vents",
+      "response": "Le Coran mentionne que les vents soulèvent les nuages, causant la pluie.",
+      "references": [
+        "Coran 30:48 - Soulèvent des nuages",
+        "Document: Le Coran et la Science Moderne, p. 23"
+      ],
+      "suggestions": [
+        "Météorologie coranique",
+        "Cycle de l'eau",
+        "Précipitations"
+      ]
+    },
+    {
+      "query": "Eau descendant avec mesure",
+      "response": "Le Coran décrit l'eau descendant du ciel avec mesure, régulée par Dieu.",
+      "references": [
+        "Coran 23:18 - Descendue avec mesure",
+        "Document: Le Coran et la Science Moderne, p. 22"
+      ],
+      "suggestions": [
+        "Cycle hydrologique",
+        "Géographie coranique",
+        "Précipitations"
+      ]
+    },
+    {
+      "query": "Eau redonnant vie à la terre",
+      "response": "Le Coran mentionne que l'eau redonne vie à la terre après sa mort.",
+      "references": [
+        "Coran 30:24 - Redonne la vie à la terre",
+        "Document: Le Coran et la Science Moderne, p. 22"
+      ],
+      "suggestions": [
+        "Cycle de l'eau",
+        "Écologie",
+        "Géographie coranique"
+      ]
+    },
+    {
+      "query": "Montagnes comme piquets",
+      "response": "Le Coran compare les montagnes à des piquets stabilisant la croûte terrestre.",
+      "references": [
+        "Coran 78:6-7 - Montagnes comme des piquets",
+        "Document: Le Coran et la Science Moderne, p. 25"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Formation des montagnes",
+        "Stabilité terrestre"
+      ]
+    },
+    {
+      "query": "Rôle des montagnes dans la stabilité",
+      "response": "Le Coran indique que les montagnes empêchent la terre de trembler.",
+      "references": [
+        "Coran 21:31 - Afin qu'elle ne s'ébranle pas",
+        "Document: Le Coran et la Science Moderne, p. 26"
+      ],
+      "suggestions": [
+        "Géologie coranique",
+        "Plaques tectoniques",
+        "Stabilité terrestre"
+      ]
+    },
+    {
+      "query": "Montagnes fermement fixées",
+      "response": "Le Coran décrit les montagnes comme ancrées, avec des racines profondes.",
+      "references": [
+        "Coran 79:32 - Il les a ancrées",
+        "Document: Le Coran et la Science Moderne, p. 27"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Formation montagneuse",
+        "Plaques tectoniques"
+      ]
+    },
+    {
+      "query": "Barrière entre mers",
+      "response": "Le Coran décrit une barrière invisible entre deux mers, empêchant leur mélange.",
+      "references": [
+        "Coran 55:19-20 - Une barrière qu'elles ne dépassent pas",
+        "Document: Le Coran et la Science Moderne, p. 28"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Barrière de densité",
+        "Mers distinctes"
+      ]
+    },
+    {
+      "query": "Barrage entre eau douce et salée",
+      "response": "Le Coran mentionne un barrage infranchissable entre eau douce et salée.",
+      "references": [
+        "Coran 25:53 - Un barrage infranchissable",
+        "Document: Le Coran et la Science Moderne, p. 29"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Estuaires",
+        "Pycnocline"
+      ]
+    },
+    {
+      "query": "Obscurité des profondeurs océaniques",
+      "response": "Le Coran décrit l'obscurité dans les profondeurs des océans, due à l'absorption de la lumière.",
+      "references": [
+        "Coran 24:40 - Ténèbres dans une mer profonde",
+        "Document: Le Coran et la Science Moderne, p. 31"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Profondeurs marines",
+        "Absorption lumineuse"
+      ]
+    },
+    {
+      "query": "Vagues internes dans l'océan",
+      "response": "Le Coran mentionne des vagues internes séparant les eaux profondes.",
+      "references": [
+        "Coran 24:40 - Vagues au-dessus desquelles s'élèvent d'autres vagues",
+        "Document: Le Coran et la Science Moderne, p. 33"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Densité marine",
+        "Profondeurs océaniques"
+      ]
+    },
+    {
+      "query": "Absorption des couleurs dans l'océan",
+      "response": "Le Coran décrit l'absorption progressive des couleurs dans les profondeurs marines.",
+      "references": [
+        "Coran 24:40 - Ténèbres entassées les unes au-dessus des autres",
+        "Document: Le Coran et la Science Moderne, p. 32"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Réfraction lumineuse",
+        "Profondeurs marines"
+      ]
+    },
+    {
+      "query": "Eau comme base de la vie",
+      "response": "Le Coran indique que toute chose vivante est faite d'eau.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante",
+        "Document: Le Coran et la Science Moderne, p. 35"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Composition cellulaire",
+        "Importance de l'eau"
+      ]
+    },
+    {
+      "query": "Création des animaux à partir d'eau",
+      "response": "Le Coran mentionne que tous les animaux sont créés à partir de l'eau.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal",
+        "Document: Le Coran et la Science Moderne, p. 35"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Origine de la vie",
+        "Zoologie coranique"
+      ]
+    },
+    {
+      "query": "Création humaine à partir d'eau",
+      "response": "Le Coran indique que les humains sont créés à partir de l'eau.",
+      "references": [
+        "Coran 25:54 - De l'eau a créé une espèce humaine",
+        "Document: Le Coran et la Science Moderne, p. 36"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Origine humaine",
+        "Physiologie coranique"
+      ]
+    },
+    {
+      "query": "Plantes en paires mâle et femelle",
+      "response": "Le Coran mentionne que les plantes sont créées en paires mâle et femelle.",
+      "references": [
+        "Coran 20:53 - Couples de plantes de toutes sortes",
+        "Document: Le Coran et la Science Moderne, p. 37"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Reproduction végétale",
+        "Genres des plantes"
+      ]
+    },
+    {
+      "query": "Fruits en paires mâle et femelle",
+      "response": "Le Coran indique que les fruits impliquent des organes mâles et femelles.",
+      "references": [
+        "Coran 13:3 - Deux éléments de couple",
+        "Document: Le Coran et la Science Moderne, p. 37"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Reproduction des fruits",
+        "Pollinisation"
+      ]
+    },
+    {
+      "query": "Eau pour la germination des plantes",
+      "response": "Le Coran mentionne que l'eau fait germer des plantes de toutes sortes.",
+      "references": [
+        "Coran 20:53 - Avec laquelle Nous faisons germer"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Cycle de l'eau",
+        "Croissance végétale"
+      ]
+    },
+    {
+      "query": "Diversité des cultures",
+      "response": "Le Coran décrit des cultures aux couleurs diverses issues de l'eau.",
+      "references": [
+        "Coran 39:21 - Culture aux couleurs diverses"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Diversité végétale",
+        "Agriculture"
+      ]
+    },
+    {
+      "query": "Vie redonnée à la terre",
+      "response": "Le Coran mentionne que l'eau redonne vie à la terre pour la végétation.",
+      "references": [
+        "Coran 30:24 - Redonne la vie à la terre"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Cycle hydrologique",
+        "Écologie"
+      ]
+    },
+    {
+      "query": "Animaux diversifiés",
+      "response": "Le Coran mentionne la création d'animaux divers à partir de l'eau.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal"
+      ],
+      "suggestions": [
+        "Zoologie",
+        "Diversité animale",
+        "Biologie coranique"
+      ]
+    },
+    {
+      "query": "Encouragement de la médecine",
+      "response": "L'Islam encourage la médecine, avec le Prophète recommandant traitements et prière.",
+      "references": [
+        "Sahih Bukhari 5678 - Hadith sur la médecine",
+        "Canon d'Avicenne"
+      ],
+      "suggestions": [
+        "Guérison par Coran",
+        "Bioéthique",
+        "Santé en Islam"
+      ]
+    },
+    {
+      "query": "Eau comme source de vie humaine",
+      "response": "Le Coran indique que l'espèce humaine est créée à partir de l'eau.",
+      "references": [
+        "Coran 25:54 - De l'eau a créé une espèce humaine"
+      ],
+      "suggestions": [
+        "Physiologie",
+        "Biologie humaine",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Parenté humaine par l'eau",
+      "response": "Le Coran lie la parenté humaine à sa création à partir de l'eau.",
+      "references": [
+        "Coran 25:54 - Unit par les liens de la parenté"
+      ],
+      "suggestions": [
+        "Physiologie",
+        "Génétique",
+        "Biologie coranique"
+      ]
+    },
+    {
+      "query": "Stabilité des plaques terrestres",
+      "response": "Le Coran décrit les montagnes comme stabilisant les plaques terrestres.",
+      "references": [
+        "Coran 16:15 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Formation des montagnes",
+      "response": "Le Coran suggère que les montagnes sont formées par le pliage géologique.",
+      "references": [
+        "Coran 78:6-7 - Montagnes comme des piquets"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Pliage géologique",
+        "Formation montagneuse"
+      ]
+    },
+    {
+      "query": "Racines profondes des montagnes",
+      "response": "Le Coran mentionne que les montagnes ont des racines profondes.",
+      "references": [
+        "Coran 79:32 - Il les a ancrées"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Structure montagneuse",
+        "Tectonique"
+      ]
+    },
+    {
+      "query": "Barrière invisible dans les estuaires",
+      "response": "Le Coran décrit une barrière entre l'eau douce et salée dans les estuaires.",
+      "references": [
+        "Coran 25:53 - Un barrage infranchissable"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Pycnocline",
+        "Estuaires"
+      ]
+    },
+    {
+      "query": "Mélange partiel des mers",
+      "response": "Le Coran indique que les mers se mélangent partiellement via une barrière.",
+      "references": [
+        "Coran 55:19-20 - Une barrière qu'elles ne dépassent pas"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Densité marine",
+        "Courants océaniques"
+      ]
+    },
+    {
+      "query": "Absorption de la lumière sous l'eau",
+      "response": "Le Coran décrit l'absorption progressive de la lumière dans les océans.",
+      "references": [
+        "Coran 24:40 - Ténèbres entassées"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Profondeurs marines",
+        "Réfraction lumineuse"
+      ]
+    },
+    {
+      "query": "Nuages comme barrières",
+      "response": "Le Coran mentionne les nuages comme barrières contribuant à l'obscurité marine.",
+      "references": [
+        "Coran 24:40 - Sur lesquelles il y a des nuages"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Météorologie",
+        "Absorption lumineuse"
+      ]
+    },
+    {
+      "query": "Eau essentielle à la vie",
+      "response": "Le Coran souligne que l'eau est essentielle à toute forme de vie.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Importance de l'eau",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Composition aqueuse des organismes",
+      "response": "Le Coran indique que les organismes vivants sont majoritairement composés d'eau.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Cytoplasme",
+        "Composition cellulaire"
+      ]
+    },
+    {
+      "query": "Plantes unisexuelles avec genres",
+      "response": "Le Coran mentionne que même les plantes unisexuelles ont des éléments mâles et femelles.",
+      "references": [
+        "Coran 20:53 - Couples de plantes"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Reproduction végétale",
+        "Genres des plantes"
+      ]
+    },
+    {
+      "query": "Pollinisation des plantes",
+      "response": "Le Coran suggère le processus de pollinisation pour la reproduction des plantes.",
+      "references": [
+        "Coran 13:3 - Deux éléments de couple"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Pollinisation",
+        "Reproduction végétale"
+      ]
+    },
+    {
+      "query": "Diversité des espèces animales",
+      "response": "Le Coran mentionne la création d'une diversité d'animaux à partir de l'eau.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal"
+      ],
+      "suggestions": [
+        "Zoologie",
+        "Biodiversité",
+        "Évolution"
+      ]
+    },
+    {
+      "query": "Création en étapes",
+      "response": "Le Coran décrit la création en étapes, suggérant un processus progressif.",
+      "references": [
+        "Coran 25:59 - En six jours"
+      ],
+      "suggestions": [
+        "Sciences générales",
+        "Cosmogonie",
+        "Processus de création"
+      ]
+    },
+    {
+      "query": "Eau souterraine",
+      "response": "Le Coran mentionne l'acheminement de l'eau vers des sources souterraines.",
+      "references": [
+        "Coran 39:21 - Acheminée vers des sources"
+      ],
+      "suggestions": [
+        "Géographie",
+        "Hydrologie",
+        "Eau souterraine"
+      ]
+    },
+    {
+      "query": "Condensation dans les nuages",
+      "response": "Le Coran décrit la condensation dans les nuages causée par les vents.",
+      "references": [
+        "Coran 30:48 - Les met en morceaux"
+      ],
+      "suggestions": [
+        "Météorologie",
+        "Formation des nuages",
+        "Cycle de l'eau"
+      ]
+    },
+    {
+      "query": "Stabilité terrestre par montagnes",
+      "response": "Le Coran indique que les montagnes stabilisent la croûte terrestre.",
+      "references": [
+        "Coran 31:10 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Eau pour l'agriculture",
+      "response": "Le Coran mentionne que l'eau est utilisée pour faire pousser des cultures.",
+      "references": [
+        "Coran 39:21 - Culture aux couleurs diverses"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Agriculture",
+        "Cycle de l'eau"
+      ]
+    },
+    {
+      "query": "Lumière réfléchie par les vagues",
+      "response": "Le Coran décrit la réflexion de la lumière par les vagues à la surface de l'océan.",
+      "references": [
+        "Coran 24:40 - Vagues qui réfléchissent la lumière"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Réflexion lumineuse",
+        "Profondeurs marines"
+      ]
+    },
+    {
+      "query": "Eau pour la survie humaine",
+      "response": "Le Coran indique que l'eau est essentielle à la survie humaine.",
+      "references": [
+        "Coran 15:22 - Dont Nous vous abreuvons"
+      ],
+      "suggestions": [
+        "Physiologie",
+        "Importance de l'eau",
+        "Biologie humaine"
+      ]
+    },
+    {
+      "query": "Formation des galaxies",
+      "response": "Le Coran suggère la formation des galaxies à partir d'une masse initiale.",
+      "references": [
+        "Coran 21:30 - Nous les avons séparés"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Big Bang",
+        "Formation cosmique"
+      ]
+    },
+    {
+      "query": "Structure de l'univers",
+      "response": "Le Coran décrit une structure complexe de l'univers avec des cieux superposés.",
+      "references": [
+        "Coran 71:15 - Sept cieux superposés"
+      ],
+      "suggestions": [
+        "Cosmologie",
+        "Structure cosmique",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Mouvement des nuages",
+      "response": "Le Coran mentionne que les vents déplacent les nuages pour la pluie.",
+      "references": [
+        "Coran 30:48 - Il les étend dans le ciel"
+      ],
+      "suggestions": [
+        "Météorologie",
+        "Cycle de l'eau",
+        "Formation des nuages"
+      ]
+    },
+    {
+      "query": "Eau pour les cultures variées",
+      "response": "Le Coran décrit l'eau faisant pousser des cultures de diverses couleurs.",
+      "references": [
+        "Coran 39:21 - Culture aux couleurs diverses"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Agriculture",
+        "Diversité végétale"
+      ]
+    },
+    {
+      "query": "Mouvement des planètes",
+      "response": "Le Coran indique que les planètes suivent des orbites précises.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Système solaire",
+        "Héliocentrisme"
+      ]
+    },
+    {
+      "query": "Eau comme source de vie animale",
+      "response": "Le Coran mentionne que tous les animaux sont créés à partir de l'eau.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal"
+      ],
+      "suggestions": [
+        "Zoologie",
+        "Biologie",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Eau pour la reproduction humaine",
+      "response": "Le Coran lie la création humaine à l'eau, suggérant son rôle dans la reproduction.",
+      "references": [
+        "Coran 25:54 - De l'eau a créé une espèce humaine"
+      ],
+      "suggestions": [
+        "Physiologie",
+        "Reproduction humaine",
+        "Biologie coranique"
+      ]
+    },
+    {
+      "query": "Stabilité des continents",
+      "response": "Le Coran décrit les montagnes comme stabilisant les continents.",
+      "references": [
+        "Coran 16:15 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Eau pour la survie des plantes",
+      "response": "Le Coran indique que l'eau est essentielle à la survie des plantes.",
+      "references": [
+        "Coran 20:53 - Avec laquelle Nous faisons germer"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Cycle de l'eau",
+        "Croissance végétale"
+      ]
+    },
+    {
+      "query": "Obscurité marine par nuages",
+      "response": "Le Coran mentionne que les nuages contribuent à l'obscurité marine.",
+      "references": [
+        "Coran 24:40 - Sur lesquelles il y a des nuages"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Météorologie",
+        "Profondeurs marines"
+      ]
+    },
+    {
+      "query": "Formation des sources",
+      "response": "Le Coran décrit l'acheminement de l'eau vers des sources souterraines.",
+      "references": [
+        "Coran 39:21 - Acheminée vers des sources"
+      ],
+      "suggestions": [
+        "Hydrologie",
+        "Eau souterraine",
+        "Géographie"
+      ]
+    },
+    {
+      "query": "Vents et pluie",
+      "response": "Le Coran indique que les vents provoquent la pluie en déplaçant les nuages.",
+      "references": [
+        "Coran 30:48 - Soulèvent des nuages"
+      ],
+      "suggestions": [
+        "Météorologie",
+        "Cycle de l'eau",
+        "Précipitations"
+      ]
+    },
+    {
+      "query": "Eau et biodiversité",
+      "response": "Le Coran lie l'eau à la création d'une biodiversité végétale et animale.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Biodiversité",
+        "Écologie"
+      ]
+    },
+    {
+      "query": "Structure des montagnes",
+      "response": "Le Coran décrit les montagnes comme ayant des bases profondes.",
+      "references": [
+        "Coran 79:32 - Il les a ancrées"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Formation montagneuse",
+        "Tectonique"
+      ]
+    },
+    {
+      "query": "Eau et vie végétale",
+      "response": "Le Coran mentionne que l'eau fait germer des plantes variées.",
+      "references": [
+        "Coran 20:53 - Couples de plantes de toutes sortes"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Cycle de l'eau",
+        "Agriculture"
+      ]
+    },
+    {
+      "query": "Lumière et chaleur solaire",
+      "response": "Le Coran décrit le soleil comme source de lumière et de chaleur.",
+      "references": [
+        "Coran 10:5 - Une gloire brillante"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Énergie solaire",
+        "Lumière solaire"
+      ]
+    },
+    {
+      "query": "Mouvement des corps célestes",
+      "response": "Le Coran indique que les corps célestes suivent des trajectoires ordonnées.",
+      "references": [
+        "Coran 36:40 - Chacun vogue dans sa propre orbite"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Système solaire",
+        "Orbits"
+      ]
+    },
+    {
+      "query": "Eau et reproduction végétale",
+      "response": "Le Coran lie l'eau à la reproduction des plantes en paires.",
+      "references": [
+        "Coran 20:53 - Couples de plantes"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Pollinisation",
+        "Reproduction végétale"
+      ]
+    },
+    {
+      "query": "Eau et vie animale",
+      "response": "Le Coran mentionne que l'eau est essentielle à la vie animale.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal"
+      ],
+      "suggestions": [
+        "Zoologie",
+        "Biologie",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Montagnes et équilibre terrestre",
+      "response": "Le Coran décrit les montagnes comme équilibrant la Terre.",
+      "references": [
+        "Coran 16:15 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Eau et écosystèmes",
+      "response": "Le Coran indique que l'eau soutient les écosystèmes végétaux et animaux.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante"
+      ],
+      "suggestions": [
+        "Écologie",
+        "Biodiversité",
+        "Cycle de l'eau"
+      ]
+    },
+    {
+      "query": "Vagues et obscurité marine",
+      "response": "Le Coran décrit les vagues comme contribuant à l'obscurité marine.",
+      "references": [
+        "Coran 24:40 - Vagues au-dessus desquelles s'élèvent d'autres vagues"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Profondeurs marines",
+        "Réflexion lumineuse"
+      ]
+    },
+    {
+      "query": "Eau pour la survie",
+      "response": "Le Coran souligne que l'eau est essentielle à la survie de toutes les créatures.",
+      "references": [
+        "Coran 15:22 - Dont Nous vous abreuvons"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Physiologie",
+        "Importance de l'eau"
+      ]
+    },
+    {
+      "query": "Formation des nuages",
+      "response": "Le Coran décrit la formation des nuages par les vents.",
+      "references": [
+        "Coran 30:48 - Soulèvent des nuages"
+      ],
+      "suggestions": [
+        "Météorologie",
+        "Cycle de l'eau",
+        "Précipitations"
+      ]
+    },
+    {
+      "query": "Eau et vie humaine",
+      "response": "Le Coran indique que l'eau est essentielle à la vie humaine.",
+      "references": [
+        "Coran 25:54 - De l'eau a créé une espèce humaine"
+      ],
+      "suggestions": [
+        "Physiologie",
+        "Biologie humaine",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Montagnes comme stabilisateurs",
+      "response": "Le Coran décrit les montagnes comme stabilisant la croûte terrestre.",
+      "references": [
+        "Coran 21:31 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Eau pour les plantes",
+      "response": "Le Coran mentionne que l'eau fait germer des plantes variées.",
+      "references": [
+        "Coran 20:53 - Couples de plantes de toutes sortes"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Cycle de l'eau",
+        "Agriculture"
+      ]
+    },
+    {
+      "query": "Lumière solaire et chaleur",
+      "response": "Le Coran décrit le soleil comme source de lumière et de chaleur.",
+      "references": [
+        "Coran 10:5 - Une gloire brillante"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Énergie solaire",
+        "Lumière solaire"
+      ]
+    },
+    {
+      "query": "Orbits distincts du soleil et de la lune",
+      "response": "Le Coran mentionne que le soleil et la lune suivent des orbites distinctes.",
+      "references": [
+        "Coran 36:40 - Chacun vogue dans sa propre orbite"
+      ],
+      "suggestions": [
+        "Astronomie",
+        "Système solaire",
+        "Héliocentrisme"
+      ]
+    },
+    {
+      "query": "Eau et reproduction des plantes",
+      "response": "Le Coran lie l'eau à la reproduction des plantes en paires.",
+      "references": [
+        "Coran 20:53 - Couples de plantes"
+      ],
+      "suggestions": [
+        "Botanique",
+        "Pollinisation",
+        "Reproduction végétale"
+      ]
+    },
+    {
+      "query": "Eau et vie animale",
+      "response": "Le Coran mentionne que l'eau est essentielle à la vie animale.",
+      "references": [
+        "Coran 24:45 - Créé d'eau tout animal"
+      ],
+      "suggestions": [
+        "Zoologie",
+        "Biologie",
+        "Origine de la vie"
+      ]
+    },
+    {
+      "query": "Montagnes et équilibre terrestre",
+      "response": "Le Coran décrit les montagnes comme équilibrant la Terre.",
+      "references": [
+        "Coran 16:15 - Afin qu'elle ne s'ébranle pas"
+      ],
+      "suggestions": [
+        "Géologie",
+        "Tectonique des plaques",
+        "Montagnes"
+      ]
+    },
+    {
+      "query": "Eau et écosystèmes",
+      "response": "Le Coran indique que l'eau soutient les écosystèmes végétaux et animaux.",
+      "references": [
+        "Coran 21:30 - Fait de l'eau toute chose vivante"
+      ],
+      "suggestions": [
+        "Écologie",
+        "Biodiversité",
+        "Cycle de l'eau"
+      ]
+    },
+    {
+      "query": "Vagues et obscurité marine",
+      "response": "Le Coran décrit les vagues comme contribuant à l'obscurité marine.",
+      "references": [
+        "Coran 24:40 - Vagues au-dessus desquelles s'élèvent d'autres vagues"
+      ],
+      "suggestions": [
+        "Océanologie",
+        "Profondeurs marines",
+        "Réflexion lumineuse"
+      ]
+    },
+    {
+      "query": "Eau pour la survie",
+      "response": "Le Coran souligne que l'eau est essentielle à la survie de toutes les créatures.",
+      "references": [
+        "Coran 15:22 - Dont Nous vous abreuvons"
+      ],
+      "suggestions": [
+        "Biologie",
+        "Physiologie",
+        "Importance de l'eau"
+      ]
+    },
+    {
+      "query": "Miracles des prophètes dans le Coran",
+      "response": "Le Coran relate des miracles accordés aux prophètes, comme Moïse fendant la mer ou Jésus guérissant les aveugles, prouvant leur mission divine.",
+      "references": [
+        "Coran 20:77 - Moïse fend la mer",
+        "Coran 3:49 - Jésus guérit les aveugles et ressuscite les morts"
+      ],
+      "suggestions": [
+        "Prophètes dans l'Islam",
+        "Miracles coraniques",
+        "Histoire des prophètes"
+      ]
+    },
+    {
+      "query": "Récits inspirants dans le Coran",
+      "response": "Le Coran raconte des histoires inspirantes, comme celle de Joseph surmontant l'adversité ou d'Abraham sacrifiant pour Dieu, pour enseigner la patience et la foi.",
+      "references": [
+        "Coran 12:1-101 - Histoire de Joseph",
+        "Coran 37:99-111 - Sacrifice d'Abraham"
+      ],
+      "suggestions": [
+        "Histoires coraniques",
+        "Patience en Islam",
+        "Foi et persévérance"
+      ]
+    },
+    {
+      "query": "Conseils de sagesse dans le Coran",
+      "response": "Le Coran offre des conseils de sagesse, comme la modération, la justice et la bienveillance envers les autres.",
+      "references": [
+        "Coran 2:177 - La piété inclut la justice et la charité",
+        "Coran 16:90 - Dieu ordonne la justice et la bienfaisance"
+      ],
+      "suggestions": [
+        "Éthique islamique",
+        "Sagesse coranique",
+        "Morale en Islam"
+      ]
+    },
+    {
+      "query": "Guidance dans le Coran",
+      "response": "Le Coran est une guidance pour l'humanité, montrant le chemin de la droiture et de la vérité.",
+      "references": [
+        "Coran 2:2 - Livre de guidance pour les pieux",
+        "Coran 17:9 - Guide vers le droit chemin"
+      ],
+      "suggestions": [
+        "Droit chemin",
+        "Coran comme guide",
+        "Spiritualité islamique"
+      ]
+    },
+    {
+      "query": "Paradis dans le Coran",
+      "response": "Le Coran décrit le paradis comme un lieu de paix éternelle avec des jardins, des rivières et des récompenses pour les justes.",
+      "references": [
+        "Coran 47:15 - Jardins sous lesquels coulent des rivières",
+        "Coran 2:25 - Récompense des croyants"
+      ],
+      "suggestions": [
+        "Vie après la mort",
+        "Récompense divine",
+        "Jardins du paradis"
+      ]
+    },
+    {
+      "query": "Prière dans le Coran",
+      "response": "La prière est un pilier de l'Islam, ordonnée pour purifier l'âme et se rapprocher de Dieu.",
+      "references": [
+        "Coran 2:153 - Cherchez secours dans la prière",
+        "Coran 29:45 - La prière préserve du mal"
+      ],
+      "suggestions": [
+        "Salat",
+        "Piliers de l'Islam",
+        "Spiritualité"
+      ]
+    },
+    {
+      "query": "Résurrection dans le Coran",
+      "response": "Le Coran enseigne la résurrection des morts pour le Jour du Jugement, où chacun rendra compte de ses actes.",
+      "references": [
+        "Coran 22:7 - Allah ressuscitera ceux dans les tombes",
+        "Coran 39:68 - Souffle dans la Trompe pour la résurrection"
+      ],
+      "suggestions": [
+        "Jour du Jugement",
+        "Vie après la mort",
+        "Compte divin"
+      ]
+    },
+    {
+      "query": "Bien et mal dans le Coran",
+      "response": "Le Coran distingue le bien (obéissance à Dieu) du mal (désobéissance), guidant vers la droiture.",
+      "references": [
+        "Coran 16:90 - Ordonne le bien, interdit le mal",
+        "Coran 3:104 - Enjoindre le bien et interdire le mal"
+      ],
+      "suggestions": [
+        "Éthique islamique",
+        "Morale coranique",
+        "Justice divine"
+      ]
+    },
+    {
+      "query": "Péché dans le Coran",
+      "response": "Le Coran définit le péché comme une désobéissance à Dieu, mais offre le pardon à ceux qui se repentent.",
+      "references": [
+        "Coran 4:17 - Pardon pour ceux qui se repentent",
+        "Coran 7:153 - Allah pardonne les péchés"
+      ],
+      "suggestions": [
+        "Repentir",
+        "Pardon divin",
+        "Morale islamique"
+      ]
+    },
+    {
+      "query": "Famille dans le Coran",
+      "response": "Le Coran valorise la famille comme base de la société, encourageant l'amour et le respect mutuel.",
+      "references": [
+        "Coran 30:21 - Signes dans l'amour entre époux",
+        "Coran 4:1 - Respect des liens familiaux"
+      ],
+      "suggestions": [
+        "Valeurs familiales",
+        "Mariage islamique",
+        "Respect des parents"
+      ]
+    },
+    {
+      "query": "Statut de la femme dans le Coran",
+      "response": "Le Coran accorde aux femmes des droits égaux en spiritualité et des protections spécifiques dans la société.",
+      "references": [
+        "Coran 4:19 - Traitez les femmes avec bienveillance",
+        "Coran 33:35 - Égalité des récompenses pour hommes et femmes"
+      ],
+      "suggestions": [
+        "Droits des femmes",
+        "Égalité en Islam",
+        "Rôle féminin"
+      ]
+    },
+    {
+      "query": "Enfants dans le Coran",
+      "response": "Le Coran ordonne de traiter les enfants avec justice et affection, les considérant comme une bénédiction.",
+      "references": [
+        "Coran 17:31 - Ne tuez pas vos enfants par peur de la pauvreté",
+        "Coran 46:15 - Respect envers les parents et enfants"
+      ],
+      "suggestions": [
+        "Éducation des enfants",
+        "Bénédiction divine",
+        "Responsabilité parentale"
+      ]
+    },
+    {
+      "query": "Partage de l'héritage dans le Coran",
+      "response": "Le Coran établit des règles précises pour le partage de l'héritage, assurant justice entre héritiers.",
+      "references": [
+        "Coran 4:11-12 - Règles de l'héritage",
+        "Coran 4:176 - Partage pour les parents éloignés"
+      ],
+      "suggestions": [
+        "Droit islamique",
+        "Justice dans l'héritage",
+        "Lois successorales"
+      ]
+    },
+    {
+      "query": "Droit dans le Coran",
+      "response": "Le Coran promeut la justice et l'équité dans tous les aspects de la vie, y compris les droits légaux.",
+      "references": [
+        "Coran 4:135 - Soyez équitables en justice",
+        "Coran 5:8 - Témoignez avec justice"
+      ],
+      "suggestions": [
+        "Justice islamique",
+        "Droit coranique",
+        "Équité"
+      ]
+    },
+    {
+      "query": "Mariage dans le Coran",
+      "response": "Le Coran encourage le mariage comme un lien d'amour et de miséricorde, avec des responsabilités mutuelles.",
+      "references": [
+        "Coran 30:21 - Amour et miséricorde entre époux",
+        "Coran 4:3 - Mariage équitable"
+      ],
+      "suggestions": [
+        "Mariage islamique",
+        "Responsabilités conjugales",
+        "Amour en Islam"
+      ]
+    },
+    {
+      "query": "Divorce dans le Coran",
+      "response": "Le Coran permet le divorce avec des règles pour préserver la dignité et les droits des deux parties.",
+      "references": [
+        "Coran 2:229 - Divorce avec bienveillance",
+        "Coran 65:2 - Respect des termes du divorce"
+      ],
+      "suggestions": [
+        "Divorce islamique",
+        "Droits des femmes",
+        "Justice conjugale"
+      ]
+    },
+    {
+      "query": "Dot pour le mariage dans le Coran",
+      "response": "Le Coran ordonne une dot pour la mariée, comme droit et signe d'engagement.",
+      "references": [
+        "Coran 4:4 - Donnez aux femmes leur dot de bon gré",
+        "Coran 4:24 - Dot comme obligation"
+      ],
+      "suggestions": [
+        "Mariage islamique",
+        "Droits des femmes",
+        "Engagement conjugal"
+      ]
+    },
+    {
+      "query": "Conditions de la prière dans le Coran",
+      "response": "Le Coran exige pureté, intention, et horaires précis pour la prière, renforçant la discipline spirituelle.",
+      "references": [
+        "Coran 4:103 - Prières à des heures déterminées",
+        "Coran 5:6 - Purification avant la prière"
+      ],
+      "suggestions": [
+        "Salat",
+        "Pureté rituelle",
+        "Piliers de l'Islam"
+      ]
+    },
+    {
+      "query": "Droits des travailleurs dans le Coran",
+      "response": "Les travailleurs ont droit à un salaire juste, repos et traitement humain.",
+      "references": [
+        "Coran 65:6 - Sur le paiement juste",
+        "Sahih Bukhari 2270 - Hadith sur les salaires"
+      ],
+      "suggestions": [
+        "Salaire minimum",
+        "Travail en Islam",
+        "Esclavage aboli"
+      ]
+    },
+    {
+      "query": "Islam et la médecine",
+      "response": "L'Islam encourage la médecine, avec le Prophète recommandant traitements et prière.",
+      "references": [
+        "Sahih Bukhari 5678 - Hadith sur la médecine",
+        "Canon d'Avicenne"
+      ],
+      "suggestions": [
+        "Guérison par Coran",
+        "Bioéthique",
+        "Santé en Islam"
+      ]
+    },
+    {
+      "query": "Origine de l'univers dans le Coran",
+      "response": "Le Coran décrit l'univers comme issu d'une masse unique séparée, correspondant à la théorie du Big Bang.",
+      "references": [
+        "Coran 21:30 - Les cieux et la terre formaient une masse compacte, puis séparés",
+        "Document: Le Coran et la Science Moderne, p. 7"
+      ],
+      "suggestions": [
+        "Big Bang",
+        "Création cosmique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "État initial de l'univers",
+      "response": "Le Coran décrit l'univers comme étant initialement de la 'fumée', correspondant à la matière gazeuse primordiale.",
+      "references": [
+        "Coran 41:11 - Le ciel était alors fumée",
+        "Document: Le Coran et la Science Moderne, p. 8"
+      ],
+      "suggestions": [
+        "Formation des galaxies",
+        "Nébuleuse primaire",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Forme sphérique de la Terre",
+      "response": "Le Coran indique que la Terre est sphérique par la transition graduelle du jour et de la nuit.",
+      "references": [
+        "Coran 31:29 - Allah fait pénétrer la nuit dans le jour",
+        "Document: Le Coran et la Science Moderne, p. 9"
+      ],
+      "suggestions": [
+        "Géographie coranique",
+        "Forme de la Terre",
+        "Rotation terrestre"
+      ]
+    },
+    {
+      "query": "Forme géo-sphérique de la Terre",
+      "response": "La Terre est décrite comme un œuf d'autruche, correspondant à sa forme aplatie aux pôles.",
+      "references": [
+        "Coran 79:30 - Il l'a étendue (dahaha)",
+        "Document: Le Coran et la Science Moderne, p. 10"
+      ],
+      "suggestions": [
+        "Forme de la Terre",
+        "Géologie coranique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "Soleil comme source de lumière",
+      "response": "Le Coran décrit le soleil comme une 'torche' ou 'lampe', produisant sa propre lumière.",
+      "references": [
+        "Coran 25:61 - Un luminaire",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière solaire",
+        "Astronomie coranique",
+        "Énergie solaire"
+      ]
+    },
+    {
+      "query": "Lune réfléchissant la lumière",
+      "response": "Le Coran décrit la lune comme un corps réfléchissant la lumière, non émetteur.",
+      "references": [
+        "Coran 25:61 - Une lune éclairante",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière lunaire",
+        "Astronomie coranique",
+        "Réflexion lumineuse"
+      ]
+    },
+    {
+      "query": "Rotation du soleil",
+      "response": "Le Coran indique que le soleil tourne sur son axe, un fait découvert récemment.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Astronomie moderne",
+        "Rotation des corps célestes"
+      ]
+    },
+    {
+      "query": "Orbits des corps célestes",
+      "response": "Le Coran mentionne que le soleil et la lune suivent des orbites distinctes.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Système solaire",
+        "Héliocentrisme",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Apex solaire",
+      "response": "Le Coran suggère que le soleil se dirige vers un point précis, appelé apex solaire.",
+      "references": [
+        "Coran 36:38 - Court vers un gîte assigné",
+        "Document: Le Coran et la Science Moderne, p. 14"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Galaxie de la Voie lactée",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Fin du soleil",
+      "response": "Le Coran indique que le soleil s'éteindra après une période déterminée.",
+      "references": [
+        "Coran 36:38 - Court vers un gîte assigné",
+        "Document: Le Coran et la Science Moderne, p. 15"
+      ],
+      "suggestions": [
+        "Cycle stellaire",
+        "Mort du soleil",
+        "Astronomie coranique"
+      ]
+    },
+    {
+      "query": "Matière interstellaire",
+      "response": "Le Coran mentionne l'existence de matière entre les cieux et la terre, comme le plasma.",
+      "references": [
+        "Coran 25:59 - Tout ce qui existe entre eux",
+        "Document: Le Coran et la Science Moderne, p. 16"
+      ],
+      "suggestions": [
+        "Plasma cosmique",
+        "Matière interstellaire",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Récit d'Adam dans le Coran",
+      "response": "Adam, le premier homme et prophète, fut créé par Dieu à partir d'argile. Il vécut au paradis avec Ève, mais ils furent tentés par Satan et mangèrent du fruit interdit, entraînant leur descente sur Terre. Dieu leur pardonna après leur repentir.",
+      "references": [
+        "Coran 2:30-39 - Création et chute d'Adam",
+        "Coran 20:115-123 - Repentir d'Adam"
+      ],
+      "suggestions": [
+        "Création humaine",
+        "Péché originel",
+        "Repentir en Islam"
+      ]
+    },
+    {
+      "query": "Récit d'Idriss dans le Coran",
+      "response": "Idriss, connu pour sa piété et sa sagesse, fut élevé par Dieu à un haut rang. Il prêcha la foi en un seul Dieu et fut un exemple de droiture.",
+      "references": [
+        "Coran 19:56-57 - Idriss élevé à un haut rang",
+        "Coran 21:85-86 - Parmi les patients et justes"
+      ],
+      "suggestions": [
+        "Piété en Islam",
+        "Sagesse des prophètes",
+        "Monothéisme"
+      ]
+    },
+    {
+      "query": "Récit de Noé (Nuh) dans le Coran",
+      "response": "Noé fut envoyé pour guider son peuple idolâtre. Il construisit une arche sur l'ordre de Dieu pour survivre au déluge qui punit les mécréants. Seuls les croyants et certains animaux furent sauvés.",
+      "references": [
+        "Coran 11:25-49 - Histoire de l'arche et du déluge",
+        "Coran 71:1-28 - Mission de Noé"
+      ],
+      "suggestions": [
+        "Déluge coranique",
+        "Obéissance à Dieu",
+        "Mission prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Houd dans le Coran",
+      "response": "Houd fut envoyé au peuple d'Ad, qui adorait des idoles. Malgré ses avertissements, ils rejetèrent son message, et Dieu les détruisit par un vent violent.",
+      "references": [
+        "Coran 11:50-60 - Mission de Houd",
+        "Coran 7:65-72 - Châtiment du peuple d'Ad"
+      ],
+      "suggestions": [
+        "Peuple d'Ad",
+        "Châtiment divin",
+        "Monothéisme"
+      ]
+    },
+    {
+      "query": "Récit de Saleh dans le Coran",
+      "response": "Saleh fut envoyé au peuple de Thamoud, qui rejeta son appel à adorer Dieu. Dieu leur envoya une chamelle comme signe, mais ils la tuèrent, entraînant leur destruction par un tremblement.",
+      "references": [
+        "Coran 11:61-68 - Chamelle de Saleh",
+        "Coran 7:73-79 - Châtiment de Thamoud"
+      ],
+      "suggestions": [
+        "Peuple de Thamoud",
+        "Miracles divins",
+        "Obéissance à Dieu"
+      ]
+    },
+    {
+      "query": "Récit d'Abraham (Ibrahim) dans le Coran",
+      "response": "Abraham, père du monothéisme, rejeta les idoles de son peuple et fut jeté dans un feu, dont Dieu le sauva. Il construisit la Kaaba et fut prêt à sacrifier son fils sur l'ordre divin.",
+      "references": [
+        "Coran 21:51-71 - Abraham contre les idoles",
+        "Coran 37:83-113 - Sacrifice d'Abraham"
+      ],
+      "suggestions": [
+        "Monothéisme",
+        "Kaaba",
+        "Sacrifice en Islam"
+      ]
+    },
+    {
+      "query": "Récit de Loth (Lout) dans le Coran",
+      "response": "Loth fut envoyé à un peuple pratiquant des actes immoraux. Il les appela à la droiture, mais ils refusèrent. Dieu détruisit leur ville par une pluie de pierres, sauvant Loth et sa famille, sauf sa femme.",
+      "references": [
+        "Coran 11:77-83 - Destruction du peuple de Loth",
+        "Coran 7:80-84 - Mission de Loth"
+      ],
+      "suggestions": [
+        "Morale islamique",
+        "Châtiment divin",
+        "Prophètes et péché"
+      ]
+    },
+    {
+      "query": "Récit d'Ismaël (Ismaïl) dans le Coran",
+      "response": "Ismaël, fils d'Abraham, aida à construire la Kaaba. Il fut soumis à l'épreuve du sacrifice, démontrant sa foi et son obéissance à Dieu.",
+      "references": [
+        "Coran 2:125-127 - Construction de la Kaaba",
+        "Coran 37:100-111 - Sacrifice d'Ismaël"
+      ],
+      "suggestions": [
+        "Kaaba",
+        "Sacrifice en Islam",
+        "Pèlerinage"
+      ]
+    },
+    {
+      "query": "Récit d'Isaac (Ishaq) dans le Coran",
+      "response": "Isaac, fils d'Abraham, fut un prophète béni, prêchant l'adoration de Dieu. Il est mentionné comme un don divin à Abraham.",
+      "references": [
+        "Coran 37:112-113 - Don d'Isaac à Abraham",
+        "Coran 19:49 - Isaac parmi les justes"
+      ],
+      "suggestions": [
+        "Monothéisme",
+        "Bénédiction divine",
+        "Prophètes d'Islam"
+      ]
+    },
+    {
+      "query": "Récit de Jacob (Yaqub) dans le Coran",
+      "response": "Jacob, père de Joseph, fut un prophète guidant son peuple. Il souffrit de la séparation avec son fils Joseph mais fut réuni avec lui grâce à la miséricorde de Dieu.",
+      "references": [
+        "Coran 12:4-100 - Histoire liée à Joseph",
+        "Coran 2:132-133 - Testament de Jacob"
+      ],
+      "suggestions": [
+        "Histoire de Joseph",
+        "Patience en Islam",
+        "Famille prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Joseph (Yousouf) dans le Coran",
+      "response": "Joseph fut vendu comme esclave par ses frères jaloux. Grâce à sa foi et sa patience, il devint un ministre puissant en Égypte et pardonna à sa famille.",
+      "references": [
+        "Coran 12:4-101 - Sourate Yousouf, histoire complète",
+        "Coran 12:111 - Leçon pour les réfléchis"
+      ],
+      "suggestions": [
+        "Patience en Islam",
+        "Pardon divin",
+        "Récits inspirants"
+      ]
+    },
+    {
+      "query": "Récit de Job (Ayyoub) dans le Coran",
+      "response": "Job fut éprouvé par des maladies et des pertes, mais resta patient et fidèle à Dieu, qui le guérit et lui rendit ses bénédictions.",
+      "references": [
+        "Coran 21:83-84 - Épreuve et guérison de Job",
+        "Coran 38:41-44 - Patience de Job"
+      ],
+      "suggestions": [
+        "Patience en Islam",
+        "Épreuves divines",
+        "Foi prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Shuaib dans le Coran",
+      "response": "Shuaib fut envoyé au peuple de Madyan, qui trichait dans le commerce. Ils rejetèrent son message, et Dieu les détruisit par un tremblement.",
+      "references": [
+        "Coran 11:84-95 - Mission de Shuaib",
+        "Coran 7:85-93 - Châtiment de Madyan"
+      ],
+      "suggestions": [
+        "Justice commerciale",
+        "Châtiment divin",
+        "Monothéisme"
+      ]
+    },
+    {
+      "query": "Récit de Moïse (Moussa) dans le Coran",
+      "response": "Moïse fut envoyé pour libérer les Enfants d'Israël de Pharaon. Il reçut les Tables de la Loi et accomplit des miracles, comme fendre la mer.",
+      "references": [
+        "Coran 20:9-99 - Histoire de Moïse",
+        "Coran 7:103-160 - Miracles et mission de Moïse"
+      ],
+      "suggestions": [
+        "Miracles coraniques",
+        "Exode",
+        "Monothéisme"
+      ]
+    },
+    {
+      "query": "Récit de Haroun (Aaron) dans le Coran",
+      "response": "Haroun, frère de Moïse, l'assista dans sa mission contre Pharaon et fut un prophète soutenant les Enfants d'Israël.",
+      "references": [
+        "Coran 20:29-36 - Haroun comme aide de Moïse",
+        "Coran 7:142 - Rôle de Haroun"
+      ],
+      "suggestions": [
+        "Prophètes d'Israël",
+        "Mission de Moïse",
+        "Fraternité prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Dhul-Kifl dans le Coran",
+      "response": "Dhul-Kifl est mentionné comme un prophète patient et juste, mais son récit est bref, mettant l'accent sur sa droiture.",
+      "references": [
+        "Coran 21:85-86 - Parmi les justes",
+        "Coran 38:48 - Dhul-Kifl patient"
+      ],
+      "suggestions": [
+        "Patience en Islam",
+        "Prophètes mineurs",
+        "Justice divine"
+      ]
+    },
+    {
+      "query": "Récit de David (Dawoud) dans le Coran",
+      "response": "David reçut les Psaumes et tua Goliath. Il fut un roi juste, connu pour sa force et sa sagesse, et Dieu lui donna le don de la musique.",
+      "references": [
+        "Coran 2:251 - Victoire sur Goliath",
+        "Coran 38:17-20 - Don des Psaumes"
+      ],
+      "suggestions": [
+        "Psaumes coraniques",
+        "Justice prophétique",
+        "Miracles divins"
+      ]
+    },
+    {
+      "query": "Récit de Salomon (Souleymane) dans le Coran",
+      "response": "Salomon, fils de David, régna avec sagesse, contrôlant les vents et les djinns. Il communiqua avec les animaux et jugea avec équité.",
+      "references": [
+        "Coran 27:15-44 - Règne et miracles de Salomon",
+        "Coran 38:30-40 - Dons de Salomon"
+      ],
+      "suggestions": [
+        "Sagesse prophétique",
+        "Miracles coraniques",
+        "Royaume de Salomon"
+      ]
+    },
+    {
+      "query": "Récit d'Élie (Ilyas) dans le Coran",
+      "response": "Élie fut envoyé pour appeler son peuple à adorer Dieu au lieu des idoles. Il fut un exemple de piété et de persévérance.",
+      "references": [
+        "Coran 37:123-132 - Mission d'Élie",
+        "Coran 6:85 - Parmi les justes"
+      ],
+      "suggestions": [
+        "Monothéisme",
+        "Prophètes mineurs",
+        "Foi en Dieu"
+      ]
+    },
+    {
+      "query": "Récit d'Élisée (Al-Yasa) dans le Coran",
+      "response": "Élisée, successeur d'Élie, est brièvement mentionné comme un prophète juste, continuant la mission monothéiste.",
+      "references": [
+        "Coran 6:86 - Parmi les élus",
+        "Coran 38:48 - Élisée juste"
+      ],
+      "suggestions": [
+        "Prophètes mineurs",
+        "Monothéisme",
+        "Continuité prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Jonas (Younous) dans le Coran",
+      "response": "Jonas fut avalé par un poisson après avoir quitté son peuple. Il se repentit, et Dieu le sauva, l'envoyant à nouveau prêcher.",
+      "references": [
+        "Coran 37:139-148 - Histoire du poisson",
+        "Coran 10:98 - Repentir de Jonas"
+      ],
+      "suggestions": [
+        "Repentir en Islam",
+        "Miracles coraniques",
+        "Mission prophétique"
+      ]
+    },
+    {
+      "query": "Récit de Zacharie (Zakariya) dans le Coran",
+      "response": "Zacharie pria pour un fils et reçut Jean (Yahya). Il fut un prophète pieux, guidant les Enfants d'Israël.",
+      "references": [
+        "Coran 19:2-15 - Prière pour Jean",
+        "Coran 3:37-41 - Mission de Zacharie"
+      ],
+      "suggestions": [
+        "Prière exaucée",
+        "Prophètes d'Israël",
+        "Bénédiction divine"
+      ]
+    },
+    {
+      "query": "Récit de Jean (Yahya) dans le Coran",
+      "response": "Jean, fils de Zacharie, fut un prophète pur, confirmant la parole de Dieu et prêchant la droiture.",
+      "references": [
+        "Coran 19:12-15 - Vertus de Jean",
+        "Coran 3:39 - Prophète juste"
+      ],
+      "suggestions": [
+        "Prophètes d'Israël",
+        "Pureté spirituelle",
+        "Mission divine"
+      ]
+    },
+    {
+      "query": "Récit de Jésus (Issa) dans le Coran",
+      "response": "Jésus, né miraculeusement de Marie, fut un prophète qui accomplit des miracles, comme guérir les aveugles et ressusciter les morts, et prêcha l'adoration de Dieu.",
+      "references": [
+        "Coran 3:45-59 - Naissance et miracles de Jésus",
+        "Coran 19:16-36 - Histoire de Marie et Jésus"
+      ],
+      "suggestions": [
+        "Miracles de Jésus",
+        "Monothéisme",
+        "Marie dans l'Islam"
+      ]
+    },
+    {
+      "query": "Récit de Mohammed dans le Coran",
+      "response": "Mohammed, le dernier prophète, reçut le Coran et guida l'humanité vers le monothéisme, la justice et la miséricorde.",
+      "references": [
+        "Coran 33:40 - Sceau des prophètes",
+        "Coran 48:29 - Miséricorde pour l'humanité"
+      ],
+      "suggestions": [
+        "Mission prophétique",
+        "Coran révélé",
+        "Monothéisme"
+      ]
+    },
+    {
+      "query": "Origine de l'univers dans le Coran",
+      "response": "Le Coran décrit l'univers comme issu d'une masse unique séparée, correspondant à la théorie du Big Bang.",
+      "references": [
+        "Coran 21:30 - Les cieux et la terre formaient une masse compacte, puis séparés",
+        "Document: Le Coran et la Science Moderne, p. 7"
+      ],
+      "suggestions": [
+        "Big Bang",
+        "Création cosmique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "État initial de l'univers",
+      "response": "Le Coran décrit l'univers comme étant initialement de la 'fumée', correspondant à la matière gazeuse primordiale.",
+      "references": [
+        "Coran 41:11 - Le ciel était alors fumée",
+        "Document: Le Coran et la Science Moderne, p. 8"
+      ],
+      "suggestions": [
+        "Formation des galaxies",
+        "Nébuleuse primaire",
+        "Astronomie moderne"
+      ]
+    },
+    {
+      "query": "Forme sphérique de la Terre",
+      "response": "Le Coran indique que la Terre est sphérique par la transition graduelle du jour et de la nuit.",
+      "references": [
+        "Coran 31:29 - Allah fait pénétrer la nuit dans le jour",
+        "Document: Le Coran et la Science Moderne, p. 9"
+      ],
+      "suggestions": [
+        "Géographie coranique",
+        "Forme de la Terre",
+        "Rotation terrestre"
+      ]
+    },
+    {
+      "query": "Forme géo-sphérique de la Terre",
+      "response": "La Terre est décrite comme un œuf d'autruche, correspondant à sa forme aplatie aux pôles.",
+      "references": [
+        "Coran 79:30 - Il l'a étendue (dahaha)",
+        "Document: Le Coran et la Science Moderne, p. 10"
+      ],
+      "suggestions": [
+        "Forme de la Terre",
+        "Géologie coranique",
+        "Astronomie islamique"
+      ]
+    },
+    {
+      "query": "Soleil comme source de lumière",
+      "response": "Le Coran décrit le soleil comme une 'torche' ou 'lampe', produisant sa propre lumière.",
+      "references": [
+        "Coran 25:61 - Un luminaire",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière solaire",
+        "Astronomie coranique",
+        "Énergie solaire"
+      ]
+    },
+    {
+      "query": "Lune réfléchissant la lumière",
+      "response": "Le Coran décrit la lune comme un corps réfléchissant la lumière, non émetteur.",
+      "references": [
+        "Coran 25:61 - Une lune éclairante",
+        "Document: Le Coran et la Science Moderne, p. 11"
+      ],
+      "suggestions": [
+        "Lumière lunaire",
+        "Astronomie coranique",
+        "Réflexion lumineuse"
+      ]
+    },
+    {
+      "query": "Rotation du soleil",
+      "response": "Le Coran indique que le soleil tourne sur son axe, un fait découvert récemment.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Mouvement solaire",
+        "Astronomie moderne",
+        "Rotation des corps célestes"
+      ]
+    },
+    {
+      "query": "Orbits des corps célestes",
+      "response": "Le Coran mentionne que le soleil et la lune suivent des orbites distinctes.",
+      "references": [
+        "Coran 21:33 - Chacun voguant dans une orbite",
+        "Document: Le Coran et la Science Moderne, p. 13"
+      ],
+      "suggestions": [
+        "Système solaire",
+        "Héliocentrisme",
+        "Astronomie coranique"
+      ]
+    }
+    
+]
