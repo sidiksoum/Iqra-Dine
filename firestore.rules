@@ -1,0 +1,11 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Lecture publique pour tout le monde (l'app mobile télécharge sans login)
+    match /{document=**} {
+      allow read: if true;
+      // Seul l'administrateur connecté au Dashboard Web peut ajouter/modifier/supprimer
+      allow write: if request.auth != null;
+    }
+  }
+}
